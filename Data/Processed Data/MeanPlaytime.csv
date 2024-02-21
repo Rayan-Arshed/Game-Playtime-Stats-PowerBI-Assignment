@@ -1,0 +1,839 @@
+Unnamed: 0,Name,Platform,Year_of_Release,Variable,Value
+0,Fallout 4,PS4,2015.0,MeanPlaytime,64.44790419161679
+1,Fallout 4,XOne,2015.0,MeanPlaytime,64.44790419161679
+2,Fallout 4,PC,2015.0,MeanPlaytime,64.44790419161679
+3,Spore,PC,2008.0,MeanPlaytime,29.42413793103449
+4,Left 4 Dead 2,X360,2009.0,MeanPlaytime,41.943445692883884
+5,Left 4 Dead 2,PC,2009.0,MeanPlaytime,41.943445692883884
+6,Left 4 Dead,X360,2008.0,MeanPlaytime,42.45049019607844
+7,Left 4 Dead,PC,2008.0,MeanPlaytime,42.45049019607844
+8,Tomb Raider,PS,1996.0,MeanPlaytime,15.609313725490196
+9,Tomb Raider,PC,1996.0,MeanPlaytime,15.609313725490196
+10,BioShock Infinite,X360,2013.0,MeanPlaytime,17.40141509433963
+11,BioShock Infinite,PS3,2013.0,MeanPlaytime,17.40141509433963
+12,BioShock Infinite,PC,2013.0,MeanPlaytime,17.40141509433963
+13,Grand Theft Auto IV,X360,2008.0,MeanPlaytime,20.735840707964602
+14,Grand Theft Auto IV,PS3,2008.0,MeanPlaytime,20.735840707964602
+15,Grand Theft Auto IV,PC,2008.0,MeanPlaytime,20.735840707964602
+16,BioShock,X360,2007.0,MeanPlaytime,7.616783216783215
+17,BioShock,PS3,2008.0,MeanPlaytime,7.616783216783215
+18,BioShock,PC,2007.0,MeanPlaytime,7.616783216783215
+19,Ultra Street Fighter IV,PS4,2015.0,MeanPlaytime,36.5075
+20,Sid Meier's Civilization V,PC,2010.0,MeanPlaytime,180.18285198555955
+21,L.A. Noire,PS3,2011.0,MeanPlaytime,15.701388888888895
+22,L.A. Noire,X360,2011.0,MeanPlaytime,15.701388888888895
+23,7 Days to Die,PS4,2016.0,MeanPlaytime,41.58673469387756
+24,7 Days to Die,XOne,2016.0,MeanPlaytime,41.58673469387756
+25,Company of Heroes,PC,2006.0,MeanPlaytime,9.841935483870966
+26,Assassin's Creed II,PS3,2009.0,MeanPlaytime,27.9
+27,Assassin's Creed II,X360,2009.0,MeanPlaytime,27.9
+28,Assassin's Creed II,PC,2010.0,MeanPlaytime,27.9
+29,Grand Theft Auto V,PS3,2013.0,MeanPlaytime,85.34089219330859
+30,Grand Theft Auto V,X360,2013.0,MeanPlaytime,85.34089219330859
+31,Grand Theft Auto V,PS4,2014.0,MeanPlaytime,85.34089219330859
+32,Grand Theft Auto V,XOne,2014.0,MeanPlaytime,85.34089219330859
+33,Grand Theft Auto V,PC,2015.0,MeanPlaytime,85.34089219330859
+34,Far Cry 3,PS3,2012.0,MeanPlaytime,28.044198895027634
+35,Far Cry 3,X360,2012.0,MeanPlaytime,28.044198895027634
+36,Far Cry 3,PC,2012.0,MeanPlaytime,28.044198895027634
+37,Rocket League,PS4,2016.0,MeanPlaytime,52.53154362416109
+38,Rocket League,XOne,2016.0,MeanPlaytime,52.53154362416109
+39,Rocket League,PC,2016.0,MeanPlaytime,52.53154362416109
+40,Far Cry 4,PS4,2014.0,MeanPlaytime,35.76285714285715
+41,Far Cry 4,XOne,2014.0,MeanPlaytime,35.76285714285715
+42,Far Cry 4,PS3,2014.0,MeanPlaytime,35.76285714285715
+43,Far Cry 4,X360,2014.0,MeanPlaytime,35.76285714285715
+44,Far Cry 4,PC,2014.0,MeanPlaytime,35.76285714285715
+45,Dying Light,PS4,2015.0,MeanPlaytime,27.65749999999999
+46,Dying Light,XOne,2015.0,MeanPlaytime,27.65749999999999
+47,Dying Light,PC,2015.0,MeanPlaytime,27.65749999999999
+48,Just Cause 2,PS3,2010.0,MeanPlaytime,18.588709677419356
+49,Just Cause 2,X360,2010.0,MeanPlaytime,18.588709677419356
+50,Just Cause 2,PC,2010.0,MeanPlaytime,18.588709677419356
+51,Mirror's Edge,X360,2008.0,MeanPlaytime,4.48235294117647
+52,Mirror's Edge,PS3,2008.0,MeanPlaytime,4.48235294117647
+53,Mirror's Edge,PC,2009.0,MeanPlaytime,4.48235294117647
+54,Portal 2,X360,2011.0,MeanPlaytime,20.126048565121405
+55,Portal 2,PS3,2011.0,MeanPlaytime,20.126048565121405
+56,Portal 2,PC,2011.0,MeanPlaytime,20.126048565121405
+57,Tropico 4,X360,,MeanPlaytime,25.39117647058824
+58,Tropico 4,PC,2011.0,MeanPlaytime,25.39117647058824
+59,F.E.A.R.,PS3,2007.0,MeanPlaytime,5.858333333333332
+60,F.E.A.R.,X360,2006.0,MeanPlaytime,5.858333333333332
+61,Sleeping Dogs,PS3,2012.0,MeanPlaytime,23.128235294117644
+62,Sleeping Dogs,X360,2012.0,MeanPlaytime,23.128235294117644
+63,Sleeping Dogs,PS4,2014.0,MeanPlaytime,23.128235294117644
+64,Sleeping Dogs,XOne,2014.0,MeanPlaytime,23.128235294117644
+65,Sleeping Dogs,PC,2012.0,MeanPlaytime,23.128235294117644
+66,Saints Row IV,X360,2013.0,MeanPlaytime,19.868217054263567
+67,Saints Row IV,PS3,2013.0,MeanPlaytime,19.868217054263567
+68,Saints Row IV,PS4,2015.0,MeanPlaytime,19.868217054263567
+69,Saints Row IV,XOne,2015.0,MeanPlaytime,19.868217054263567
+70,Saints Row IV,PC,2013.0,MeanPlaytime,19.868217054263567
+71,Half-Life 2,PC,2004.0,MeanPlaytime,11.967134831460674
+72,Half-Life 2,XB,2005.0,MeanPlaytime,11.967134831460674
+73,The Talos Principle,PS4,2015.0,MeanPlaytime,17.754166666666666
+74,DiRT 3,PS3,2011.0,MeanPlaytime,14.12040816326531
+75,DiRT 3,X360,2011.0,MeanPlaytime,14.12040816326531
+76,DiRT 3,PC,2011.0,MeanPlaytime,14.12040816326531
+77,Metro 2033,X360,2010.0,MeanPlaytime,8.946857142857143
+78,Metro 2033,PC,2010.0,MeanPlaytime,8.946857142857143
+79,Assassin's Creed III,PS3,2012.0,MeanPlaytime,45.45357142857142
+80,Assassin's Creed III,X360,2012.0,MeanPlaytime,45.45357142857142
+81,Assassin's Creed III,PC,2012.0,MeanPlaytime,45.45357142857142
+82,Assassin's Creed III,WiiU,2012.0,MeanPlaytime,45.45357142857142
+83,Sniper Elite 3,PS4,2014.0,MeanPlaytime,21.113207547169814
+84,Sniper Elite 3,XOne,2014.0,MeanPlaytime,21.113207547169814
+85,Sniper Elite 3,X360,2014.0,MeanPlaytime,21.113207547169814
+86,Sniper Elite 3,PS3,2014.0,MeanPlaytime,21.113207547169814
+87,Dishonored,X360,2012.0,MeanPlaytime,19.601379310344825
+88,Dishonored,PS3,2012.0,MeanPlaytime,19.601379310344825
+89,Dishonored,PC,2012.0,MeanPlaytime,19.601379310344825
+90,Dishonored,PS4,2015.0,MeanPlaytime,19.601379310344825
+91,Dishonored,XOne,2015.0,MeanPlaytime,19.601379310344825
+92,Dead Space,PS3,2008.0,MeanPlaytime,5.036923076923076
+93,Dead Space,X360,2008.0,MeanPlaytime,5.036923076923076
+94,Dead Space,PC,2008.0,MeanPlaytime,5.036923076923076
+95,The Binding of Isaac,PC,2012.0,MeanPlaytime,32.48869047619047
+96,LEGO The Lord of the Rings,X360,2012.0,MeanPlaytime,7.950000000000001
+97,LEGO The Lord of the Rings,PS3,2012.0,MeanPlaytime,7.950000000000001
+98,LEGO The Lord of the Rings,Wii,2012.0,MeanPlaytime,7.950000000000001
+99,LEGO The Lord of the Rings,3DS,2012.0,MeanPlaytime,7.950000000000001
+100,LEGO The Lord of the Rings,PSV,2012.0,MeanPlaytime,7.950000000000001
+101,LEGO The Lord of the Rings,PC,2012.0,MeanPlaytime,7.950000000000001
+102,LEGO The Lord of the Rings,DS,2012.0,MeanPlaytime,7.950000000000001
+103,Goat Simulator,XOne,2016.0,MeanPlaytime,7.100769230769227
+104,Mass Effect,X360,2007.0,MeanPlaytime,37.823188405797076
+105,Mass Effect,PC,2008.0,MeanPlaytime,37.823188405797076
+106,DiRT Showdown,X360,2012.0,MeanPlaytime,5.417391304347826
+107,DiRT Showdown,PS3,2012.0,MeanPlaytime,5.417391304347826
+108,Borderlands 2,X360,2012.0,MeanPlaytime,58.72512953367874
+109,Borderlands 2,PS3,2012.0,MeanPlaytime,58.72512953367874
+110,Borderlands 2,PC,2012.0,MeanPlaytime,58.72512953367874
+111,Borderlands 2,PSV,2014.0,MeanPlaytime,58.72512953367874
+112,Trine,PC,2009.0,MeanPlaytime,5.5777777777777775
+113,Far Cry 2,X360,2008.0,MeanPlaytime,5.8113207547169825
+114,Far Cry 2,PS3,2008.0,MeanPlaytime,5.8113207547169825
+115,Far Cry 2,PC,2008.0,MeanPlaytime,5.8113207547169825
+116,Oil Rush,PC,2012.0,MeanPlaytime,2.377777777777778
+117,Psychonauts,XB,2005.0,MeanPlaytime,5.157142857142857
+118,Psychonauts,PS2,2005.0,MeanPlaytime,5.157142857142857
+119,Dead Island,X360,2011.0,MeanPlaytime,13.912087912087914
+120,Dead Island,PS3,2011.0,MeanPlaytime,13.912087912087914
+121,Dead Island,PC,2011.0,MeanPlaytime,13.912087912087914
+122,GRID 2,PS3,2013.0,MeanPlaytime,16.5578947368421
+123,GRID 2,X360,2013.0,MeanPlaytime,16.5578947368421
+124,GRID 2,PC,2013.0,MeanPlaytime,16.5578947368421
+125,Sonic & All-Stars Racing Transformed,X360,2012.0,MeanPlaytime,5.790625000000001
+126,Sonic & All-Stars Racing Transformed,WiiU,2012.0,MeanPlaytime,5.790625000000001
+127,Sonic & All-Stars Racing Transformed,PS3,2012.0,MeanPlaytime,5.790625000000001
+128,Sonic & All-Stars Racing Transformed,PSV,2012.0,MeanPlaytime,5.790625000000001
+129,Sonic & All-Stars Racing Transformed,3DS,2012.0,MeanPlaytime,5.790625000000001
+130,Sonic & All-Stars Racing Transformed,PC,2013.0,MeanPlaytime,5.790625000000001
+131,Prison Architect,PS4,2016.0,MeanPlaytime,26.80102040816326
+132,Prison Architect,XOne,2016.0,MeanPlaytime,26.80102040816326
+133,Valkyria Chronicles,PS3,2008.0,MeanPlaytime,9.89310344827586
+134,Valkyria Chronicles,PS4,2016.0,MeanPlaytime,9.89310344827586
+135,The Crew,PS4,2014.0,MeanPlaytime,54.995000000000005
+136,The Crew,XOne,2014.0,MeanPlaytime,54.995000000000005
+137,The Crew,X360,2014.0,MeanPlaytime,54.995000000000005
+138,The Crew,PC,2014.0,MeanPlaytime,54.995000000000005
+139,Sonic Generations,PS3,2011.0,MeanPlaytime,21.375
+140,Sonic Generations,X360,2011.0,MeanPlaytime,21.375
+141,Sonic Generations,3DS,2011.0,MeanPlaytime,21.375
+142,Sonic Generations,PC,2011.0,MeanPlaytime,21.375
+143,Dungeon Defenders,PC,2011.0,MeanPlaytime,34.38018018018019
+144,TERA,PC,,MeanPlaytime,20.238135593220335
+145,Mafia II,X360,2010.0,MeanPlaytime,24.94310344827587
+146,Mafia II,PS3,2010.0,MeanPlaytime,24.94310344827587
+147,Mafia II,PC,2010.0,MeanPlaytime,24.94310344827587
+148,APB Reloaded,PC,2011.0,MeanPlaytime,66.93623188405796
+149,Deadpool,PS3,2013.0,MeanPlaytime,10.076923076923077
+150,Deadpool,X360,2013.0,MeanPlaytime,10.076923076923077
+151,Deadpool,PS4,2015.0,MeanPlaytime,10.076923076923077
+152,Deadpool,XOne,2015.0,MeanPlaytime,10.076923076923077
+153,Counter-Strike,XB,2003.0,MeanPlaytime,236.37517605633803
+154,Project CARS,PS4,2015.0,MeanPlaytime,14.129166666666668
+155,Project CARS,XOne,2015.0,MeanPlaytime,14.129166666666668
+156,Project CARS,PC,2015.0,MeanPlaytime,14.129166666666668
+157,World of Goo,PC,2008.0,MeanPlaytime,2.2487804878048783
+158,Machinarium,PC,2009.0,MeanPlaytime,4.323529411764707
+159,Braid,PC,2009.0,MeanPlaytime,2.8874999999999993
+160,Botanicula,PC,2012.0,MeanPlaytime,3.08125
+161,Terraria,X360,2013.0,MeanPlaytime,65.11260869565214
+162,Terraria,PS3,2013.0,MeanPlaytime,65.11260869565214
+163,Terraria,PC,2011.0,MeanPlaytime,65.11260869565214
+164,Terraria,PSV,2013.0,MeanPlaytime,65.11260869565214
+165,Terraria,3DS,2016.0,MeanPlaytime,65.11260869565214
+166,Terraria,PS4,2014.0,MeanPlaytime,65.11260869565214
+167,Terraria,XOne,2014.0,MeanPlaytime,65.11260869565214
+168,Terraria,WiiU,2016.0,MeanPlaytime,65.11260869565214
+169,Saints Row 2,X360,2008.0,MeanPlaytime,27.107017543859644
+170,Saints Row 2,PS3,2008.0,MeanPlaytime,27.107017543859644
+171,Saints Row 2,PC,2009.0,MeanPlaytime,27.107017543859644
+172,GRID,PS3,2008.0,MeanPlaytime,22.67142857142857
+173,GRID,X360,2008.0,MeanPlaytime,22.67142857142857
+174,GRID,DS,,MeanPlaytime,22.67142857142857
+175,GRID,PC,,MeanPlaytime,22.67142857142857
+176,Darksiders,X360,2010.0,MeanPlaytime,13.13186813186813
+177,Darksiders,PC,2010.0,MeanPlaytime,13.13186813186813
+178,Darksiders,PS3,2010.0,MeanPlaytime,13.13186813186813
+179,Worms Reloaded,PC,2010.0,MeanPlaytime,7.432
+180,Alan Wake,X360,2010.0,MeanPlaytime,11.875000000000005
+181,Alan Wake,PC,2012.0,MeanPlaytime,11.875000000000005
+182,Peggle Nights,PC,2008.0,MeanPlaytime,4.8428571428571425
+183,Puzzler World 2,DS,2010.0,MeanPlaytime,19.1
+184,Bejeweled 3,DS,,MeanPlaytime,15.26428571428571
+185,Bejeweled 3,PS3,,MeanPlaytime,15.26428571428571
+186,Bejeweled 3,X360,,MeanPlaytime,15.26428571428571
+187,Bejeweled 3,PC,2010.0,MeanPlaytime,15.26428571428571
+188,The Book of Unwritten Tales,PC,2009.0,MeanPlaytime,9.955555555555556
+189,The Movies,PC,2005.0,MeanPlaytime,14.5
+190,The Testament of Sherlock Holmes,PS3,2012.0,MeanPlaytime,7.523529411764707
+191,The Testament of Sherlock Holmes,PC,2012.0,MeanPlaytime,7.523529411764707
+192,The Testament of Sherlock Holmes,X360,2012.0,MeanPlaytime,7.523529411764707
+193,Indigo Prophecy,PS2,2005.0,MeanPlaytime,10.5
+194,Indigo Prophecy,XB,2005.0,MeanPlaytime,10.5
+195,Indigo Prophecy,PC,2005.0,MeanPlaytime,10.5
+196,DiRT 2,PS3,2009.0,MeanPlaytime,10.755999999999998
+197,DiRT 2,X360,2009.0,MeanPlaytime,10.755999999999998
+198,DiRT 2,Wii,2009.0,MeanPlaytime,10.755999999999998
+199,DiRT 2,PSP,2009.0,MeanPlaytime,10.755999999999998
+200,DiRT 2,DS,2009.0,MeanPlaytime,10.755999999999998
+201,DiRT 2,PC,2009.0,MeanPlaytime,10.755999999999998
+202,4 Elements,PC,2009.0,MeanPlaytime,14.85
+203,Singularity,X360,,MeanPlaytime,10.137500000000001
+204,Singularity,PS3,,MeanPlaytime,10.137500000000001
+205,Singularity,PC,2010.0,MeanPlaytime,10.137500000000001
+206,CID The Dummy,PSP,2009.0,MeanPlaytime,4.4
+207,CID The Dummy,Wii,2009.0,MeanPlaytime,4.4
+208,The Wolf Among Us,PS4,2014.0,MeanPlaytime,9.906818181818183
+209,The Wolf Among Us,PS3,2014.0,MeanPlaytime,9.906818181818183
+210,The Wolf Among Us,XOne,2014.0,MeanPlaytime,9.906818181818183
+211,The Wolf Among Us,PSV,2014.0,MeanPlaytime,9.906818181818183
+212,The Wolf Among Us,X360,2011.0,MeanPlaytime,9.906818181818183
+213,State of Decay,XOne,2015.0,MeanPlaytime,14.170312499999996
+214,Half-Life,PC,1997.0,MeanPlaytime,5.737068965517244
+215,Half-Life,PS2,2001.0,MeanPlaytime,5.737068965517244
+216,Trine 2,PC,2011.0,MeanPlaytime,6.385496183206107
+217,Trine 2,WiiU,2012.0,MeanPlaytime,6.385496183206107
+218,Blur,PS3,2010.0,MeanPlaytime,7.142857142857143
+219,Blur,X360,2010.0,MeanPlaytime,7.142857142857143
+220,Blur,PC,2010.0,MeanPlaytime,7.142857142857143
+221,Magicka,PC,2011.0,MeanPlaytime,10.641450777202074
+222,The Longest Journey,PC,1999.0,MeanPlaytime,3.557142857142857
+223,Sid Meier's Civilization IV,PC,2005.0,MeanPlaytime,18.73658536585366
+224,Euro Truck Simulator 2,PC,2012.0,MeanPlaytime,42.2625730994152
+225,Just Cause,X360,2006.0,MeanPlaytime,5.550000000000001
+226,Just Cause,PC,2006.0,MeanPlaytime,5.550000000000001
+227,Just Cause,PS2,2006.0,MeanPlaytime,5.550000000000001
+228,This War of Mine,PS4,2016.0,MeanPlaytime,13.372222222222222
+229,Sniper Elite V2,PS3,2012.0,MeanPlaytime,10.428248587570623
+230,Sniper Elite V2,X360,2012.0,MeanPlaytime,10.428248587570623
+231,Sniper Elite V2,WiiU,2013.0,MeanPlaytime,10.428248587570623
+232,Stronghold 3,PC,2011.0,MeanPlaytime,9.533333333333333
+233,Mass Effect 2,X360,2010.0,MeanPlaytime,44.5
+234,Mass Effect 2,PS3,2011.0,MeanPlaytime,44.5
+235,Mass Effect 2,PC,2010.0,MeanPlaytime,44.5
+236,Borderlands,X360,2009.0,MeanPlaytime,32.48493150684931
+237,Borderlands,PS3,2009.0,MeanPlaytime,32.48493150684931
+238,Borderlands,PC,2009.0,MeanPlaytime,32.48493150684931
+239,EVE Online,PC,2003.0,MeanPlaytime,34.885714285714286
+240,DC Universe Online,PS3,2011.0,MeanPlaytime,30.355194805194802
+241,DC Universe Online,PC,2011.0,MeanPlaytime,30.355194805194802
+242,RIFT,PC,2011.0,MeanPlaytime,41.51466666666666
+243,Darksiders II,PS3,2012.0,MeanPlaytime,19.146268656716423
+244,Darksiders II,X360,2012.0,MeanPlaytime,19.146268656716423
+245,Darksiders II,PS4,2015.0,MeanPlaytime,19.146268656716423
+246,Darksiders II,PC,2012.0,MeanPlaytime,19.146268656716423
+247,Darksiders II,WiiU,2012.0,MeanPlaytime,19.146268656716423
+248,Darksiders II,XOne,2015.0,MeanPlaytime,19.146268656716423
+249,Anno 2070,PC,2011.0,MeanPlaytime,29.419999999999998
+250,Chessmaster,PS2,2003.0,MeanPlaytime,1.8
+251,Chessmaster,XB,2004.0,MeanPlaytime,1.8
+252,Chessmaster,GBA,2002.0,MeanPlaytime,1.8
+253,Might & Magic Heroes VI,PC,2011.0,MeanPlaytime,100.96341463414636
+254,Trapped Dead,PC,2011.0,MeanPlaytime,1.0
+255,Torchlight,PC,2009.0,MeanPlaytime,22.51866666666667
+256,Titan Quest,PC,2006.0,MeanPlaytime,4.386206896551724
+257,Duke Nukem Forever,X360,2011.0,MeanPlaytime,10.365
+258,Duke Nukem Forever,PS3,2011.0,MeanPlaytime,10.365
+259,Duke Nukem Forever,PC,2011.0,MeanPlaytime,10.365
+260,Company of Heroes 2,PC,2013.0,MeanPlaytime,22.471264367816097
+261,Battlefield 2,PC,2005.0,MeanPlaytime,13.664285714285715
+262,Men of War,PC,2009.0,MeanPlaytime,24.008333333333336
+263,Full Spectrum Warrior,XB,2004.0,MeanPlaytime,6.6000000000000005
+264,Full Spectrum Warrior,PS2,2005.0,MeanPlaytime,6.6000000000000005
+265,DiRT Rally,PS4,2016.0,MeanPlaytime,10.538888888888888
+266,DiRT Rally,XOne,2016.0,MeanPlaytime,10.538888888888888
+267,DiRT Rally,PC,2016.0,MeanPlaytime,10.538888888888888
+268,Defiance,X360,2013.0,MeanPlaytime,15.41505376344086
+269,Defiance,PS3,2013.0,MeanPlaytime,15.41505376344086
+270,Defiance,PC,2013.0,MeanPlaytime,15.41505376344086
+271,Tropico 5,PS4,2015.0,MeanPlaytime,19.457575757575757
+272,Tropico 5,PC,2014.0,MeanPlaytime,19.457575757575757
+273,Tropico 5,X360,2014.0,MeanPlaytime,19.457575757575757
+274,Football Manager 2013,PC,2012.0,MeanPlaytime,310.6596153846154
+275,Two Worlds II,X360,2011.0,MeanPlaytime,13.996551724137936
+276,Two Worlds II,PS3,2011.0,MeanPlaytime,13.996551724137936
+277,Two Worlds II,PC,2011.0,MeanPlaytime,13.996551724137936
+278,LEGO The Hobbit,PS4,2014.0,MeanPlaytime,29.54545454545455
+279,LEGO The Hobbit,PS3,2014.0,MeanPlaytime,29.54545454545455
+280,LEGO The Hobbit,X360,2014.0,MeanPlaytime,29.54545454545455
+281,LEGO The Hobbit,XOne,2014.0,MeanPlaytime,29.54545454545455
+282,LEGO The Hobbit,3DS,2014.0,MeanPlaytime,29.54545454545455
+283,LEGO The Hobbit,WiiU,2014.0,MeanPlaytime,29.54545454545455
+284,LEGO The Hobbit,PSV,2014.0,MeanPlaytime,29.54545454545455
+285,LEGO The Hobbit,PC,2014.0,MeanPlaytime,29.54545454545455
+286,LEGO Jurassic World,PS4,2015.0,MeanPlaytime,15.657142857142857
+287,LEGO Jurassic World,X360,2015.0,MeanPlaytime,15.657142857142857
+288,LEGO Jurassic World,PS3,2015.0,MeanPlaytime,15.657142857142857
+289,LEGO Jurassic World,XOne,2015.0,MeanPlaytime,15.657142857142857
+290,LEGO Jurassic World,3DS,2015.0,MeanPlaytime,15.657142857142857
+291,LEGO Jurassic World,WiiU,2015.0,MeanPlaytime,15.657142857142857
+292,LEGO Jurassic World,PSV,2015.0,MeanPlaytime,15.657142857142857
+293,LEGO Jurassic World,PC,2015.0,MeanPlaytime,15.657142857142857
+294,BioShock 2,X360,2010.0,MeanPlaytime,7.527272727272727
+295,BioShock 2,PS3,2010.0,MeanPlaytime,7.527272727272727
+296,BioShock 2,PC,,MeanPlaytime,7.527272727272727
+297,Homeworld Remastered Collection,PC,,MeanPlaytime,11.049999999999999
+298,Dead Space 2,X360,2011.0,MeanPlaytime,10.033333333333333
+299,Dead Space 2,PS3,2011.0,MeanPlaytime,10.033333333333333
+300,Dead Space 2,PC,2011.0,MeanPlaytime,10.033333333333333
+301,Crysis,PC,2007.0,MeanPlaytime,6.910909090909091
+302,Prey,X360,2006.0,MeanPlaytime,3.925
+303,Prey,PC,2006.0,MeanPlaytime,3.925
+304,F.E.A.R. 3,PS3,2011.0,MeanPlaytime,7.7433962264150935
+305,F.E.A.R. 3,X360,2011.0,MeanPlaytime,7.7433962264150935
+306,F.E.A.R. 3,PC,2011.0,MeanPlaytime,7.7433962264150935
+307,F.E.A.R. Perseus Mandate,PC,2007.0,MeanPlaytime,5.057142857142856
+308,Fable III,X360,2010.0,MeanPlaytime,33.56470588235294
+309,Fable III,PC,2011.0,MeanPlaytime,33.56470588235294
+310,Football Manager 2011,PC,2010.0,MeanPlaytime,365.70322580645166
+311,Stronghold Kingdoms,PC,2011.0,MeanPlaytime,100.0659574468085
+312,Enclave,XB,2002.0,MeanPlaytime,2.6866666666666665
+313,Football Manager 2012,PC,2011.0,MeanPlaytime,390.45316455696195
+314,Football Manager 2012,PSP,2011.0,MeanPlaytime,390.45316455696195
+315,Football Manager 2015,PC,2014.0,MeanPlaytime,315.3649350649351
+316,F1 2012,PS3,2012.0,MeanPlaytime,59.23684210526316
+317,F1 2012,X360,2012.0,MeanPlaytime,59.23684210526316
+318,F1 2012,PC,2012.0,MeanPlaytime,59.23684210526316
+319,Homefront,X360,2011.0,MeanPlaytime,13.244186046511631
+320,Homefront,PS3,2011.0,MeanPlaytime,13.244186046511631
+321,Homefront,PC,2011.0,MeanPlaytime,13.244186046511631
+322,Football Manager 2014,PC,2013.0,MeanPlaytime,391.9846153846153
+323,Football Manager 2014,PSV,2013.0,MeanPlaytime,391.9846153846153
+324,Football Manager 2016,PC,2015.0,MeanPlaytime,85.05925925925925
+325,Test Drive Unlimited 2,X360,,MeanPlaytime,28.870833333333337
+326,Test Drive Unlimited 2,PS3,,MeanPlaytime,28.870833333333337
+327,Test Drive Unlimited 2,PC,,MeanPlaytime,28.870833333333337
+328,Mortal Kombat X,PS4,2015.0,MeanPlaytime,68.37105263157892
+329,Mortal Kombat X,XOne,2015.0,MeanPlaytime,68.37105263157892
+330,Mortal Kombat X,PC,2015.0,MeanPlaytime,68.37105263157892
+331,Max Payne 3,PS3,2012.0,MeanPlaytime,20.875268817204297
+332,Max Payne 3,X360,2012.0,MeanPlaytime,20.875268817204297
+333,Max Payne 3,PC,2012.0,MeanPlaytime,20.875268817204297
+334,Shovel Knight,3DS,2015.0,MeanPlaytime,11.907142857142857
+335,Shovel Knight,WiiU,2015.0,MeanPlaytime,11.907142857142857
+336,Shovel Knight,PS4,2015.0,MeanPlaytime,11.907142857142857
+337,The Last Remnant,X360,2008.0,MeanPlaytime,15.97777777777778
+338,The Last Remnant,PC,2009.0,MeanPlaytime,15.97777777777778
+339,The Evil Within,PS4,2014.0,MeanPlaytime,8.55
+340,The Evil Within,PS3,2014.0,MeanPlaytime,8.55
+341,The Evil Within,XOne,2014.0,MeanPlaytime,8.55
+342,The Evil Within,X360,2014.0,MeanPlaytime,8.55
+343,The Evil Within,PC,2014.0,MeanPlaytime,8.55
+344,Rayman Legends,PS4,2014.0,MeanPlaytime,21.08571428571429
+345,Rayman Legends,WiiU,2013.0,MeanPlaytime,21.08571428571429
+346,Rayman Legends,PS3,2013.0,MeanPlaytime,21.08571428571429
+347,Rayman Legends,X360,2013.0,MeanPlaytime,21.08571428571429
+348,Rayman Legends,XOne,2014.0,MeanPlaytime,21.08571428571429
+349,Rayman Legends,PSV,2014.0,MeanPlaytime,21.08571428571429
+350,Guild Wars,PC,2005.0,MeanPlaytime,147.92499999999998
+351,Evolve,PS4,2015.0,MeanPlaytime,23.132352941176467
+352,Evolve,XOne,2015.0,MeanPlaytime,23.132352941176467
+353,Evolve,PC,2015.0,MeanPlaytime,23.132352941176467
+354,Far Cry,PC,2004.0,MeanPlaytime,4.296153846153846
+355,Risen,X360,2009.0,MeanPlaytime,13.46923076923077
+356,Risen,PC,2009.0,MeanPlaytime,13.46923076923077
+357,FlatOut 2,PS2,2006.0,MeanPlaytime,2.0142857142857147
+358,FlatOut 2,XB,2006.0,MeanPlaytime,2.0142857142857147
+359,Farming Simulator 2011,PC,2010.0,MeanPlaytime,54.74999999999999
+360,NBA 2K15,PS4,2014.0,MeanPlaytime,135.73499999999999
+361,NBA 2K15,XOne,2014.0,MeanPlaytime,135.73499999999999
+362,NBA 2K15,X360,2014.0,MeanPlaytime,135.73499999999999
+363,NBA 2K15,PS3,2014.0,MeanPlaytime,135.73499999999999
+364,NASCAR '14,X360,2014.0,MeanPlaytime,3.6
+365,NASCAR '14,PS3,2014.0,MeanPlaytime,3.6
+366,Mortal Kombat Kollection,PS2,2008.0,MeanPlaytime,2.1823529411764704
+367,Legendary,X360,2008.0,MeanPlaytime,1.0
+368,Legendary,PS3,2008.0,MeanPlaytime,1.0
+369,Legendary,PC,2008.0,MeanPlaytime,1.0
+370,Supreme Commander 2,X360,2010.0,MeanPlaytime,45.41346153846155
+371,Supreme Commander 2,PC,2010.0,MeanPlaytime,45.41346153846155
+372,Supreme Commander,X360,2008.0,MeanPlaytime,16.350000000000005
+373,Supreme Commander,PC,2007.0,MeanPlaytime,16.350000000000005
+374,Football Manager 2010,PC,2009.0,MeanPlaytime,375.04857142857145
+375,The Darkness II,X360,2012.0,MeanPlaytime,7.202857142857145
+376,The Darkness II,PS3,2012.0,MeanPlaytime,7.202857142857145
+377,The Darkness II,PC,2012.0,MeanPlaytime,7.202857142857145
+378,Grand Theft Auto III,PS2,2001.0,MeanPlaytime,3.6617647058823533
+379,Grand Theft Auto III,PC,2002.0,MeanPlaytime,3.6617647058823533
+380,Assassin's Creed,X360,2007.0,MeanPlaytime,11.53888888888889
+381,Assassin's Creed,PS3,2007.0,MeanPlaytime,11.53888888888889
+382,Assassin's Creed,PC,2008.0,MeanPlaytime,11.53888888888889
+383,Majesty 2 Collection,PC,2011.0,MeanPlaytime,22.52
+384,Wasteland 2,PS4,2015.0,MeanPlaytime,22.359090909090913
+385,Wasteland 2,PC,2015.0,MeanPlaytime,22.359090909090913
+386,Wasteland 2,XOne,2015.0,MeanPlaytime,22.359090909090913
+387,Gothic 3,PC,2006.0,MeanPlaytime,19.94
+388,Dead Rising 2,X360,2010.0,MeanPlaytime,6.08095238095238
+389,Dead Rising 2,PS3,2010.0,MeanPlaytime,6.08095238095238
+390,Dead Rising 2,PC,2010.0,MeanPlaytime,6.08095238095238
+391,Dead Rising 2,PS4,2016.0,MeanPlaytime,6.08095238095238
+392,Dead Rising 2,XOne,2016.0,MeanPlaytime,6.08095238095238
+393,Rogue Warrior,PS3,2009.0,MeanPlaytime,1.5
+394,Rogue Warrior,X360,2009.0,MeanPlaytime,1.5
+395,Worms Armageddon,PS,1999.0,MeanPlaytime,3.961904761904761
+396,Worms Armageddon,N64,1999.0,MeanPlaytime,3.961904761904761
+397,Farming Simulator 2013,PC,2012.0,MeanPlaytime,66.85
+398,Farming Simulator 2013,X360,2013.0,MeanPlaytime,66.85
+399,Farming Simulator 2013,PS3,2013.0,MeanPlaytime,66.85
+400,GRID Autosport,PS3,2014.0,MeanPlaytime,8.934482758620693
+401,GRID Autosport,X360,2014.0,MeanPlaytime,8.934482758620693
+402,GRID Autosport,PC,2014.0,MeanPlaytime,8.934482758620693
+403,Red Faction,PS2,2001.0,MeanPlaytime,2.0125
+404,Overlord II,X360,2009.0,MeanPlaytime,11.082758620689654
+405,Overlord II,PS3,2009.0,MeanPlaytime,11.082758620689654
+406,Overlord II,PC,2009.0,MeanPlaytime,11.082758620689654
+407,Overlord,X360,2007.0,MeanPlaytime,14.113636363636367
+408,Overlord,PC,2007.0,MeanPlaytime,14.113636363636367
+409,Goodbye Deponia,PC,2013.0,MeanPlaytime,4.1571428571428575
+410,Deponia,PC,2012.0,MeanPlaytime,6.588461538461539
+411,Sid Meier's Pirates!,PSP,2007.0,MeanPlaytime,7.0590909090909095
+412,Sid Meier's Pirates!,Wii,2010.0,MeanPlaytime,7.0590909090909095
+413,Sid Meier's Pirates!,XB,2005.0,MeanPlaytime,7.0590909090909095
+414,Dragon's Lair,DS,2010.0,MeanPlaytime,0.5
+415,Star Trek Online,PC,2010.0,MeanPlaytime,70.022
+416,Child of Light,PSV,2014.0,MeanPlaytime,7.790909090909091
+417,Child of Light,PS4,2014.0,MeanPlaytime,7.790909090909091
+418,Hearts of Iron III,PC,2009.0,MeanPlaytime,57.285714285714285
+419,Sengoku,PC,2011.0,MeanPlaytime,2.8600000000000003
+420,Pro Evolution Soccer 2015,PS4,2014.0,MeanPlaytime,208.375
+421,Pro Evolution Soccer 2015,PS3,2014.0,MeanPlaytime,208.375
+422,Pro Evolution Soccer 2015,XOne,2014.0,MeanPlaytime,208.375
+423,Pro Evolution Soccer 2015,X360,2014.0,MeanPlaytime,208.375
+424,Pro Evolution Soccer 2015,PC,2014.0,MeanPlaytime,208.375
+425,Street Fighter IV,PS3,2009.0,MeanPlaytime,8.544444444444444
+426,Street Fighter IV,X360,2009.0,MeanPlaytime,8.544444444444444
+427,Street Fighter IV,PC,,MeanPlaytime,8.544444444444444
+428,Sid Meier's Railroads!,PC,2006.0,MeanPlaytime,9.178571428571429
+429,Bejeweled 2 Deluxe,PC,2006.0,MeanPlaytime,0.7999999999999999
+430,Dead Rising 3,XOne,2013.0,MeanPlaytime,12.3
+431,Just Cause 3,PS4,2015.0,MeanPlaytime,15.299999999999999
+432,Just Cause 3,XOne,2015.0,MeanPlaytime,15.299999999999999
+433,Just Cause 3,PC,2015.0,MeanPlaytime,15.299999999999999
+434,X Rebirth,PC,2013.0,MeanPlaytime,40.0
+435,Way of the Samurai 4,PS3,2011.0,MeanPlaytime,3.0
+436,F1 2014,PS3,2014.0,MeanPlaytime,9.225
+437,F1 2014,X360,2014.0,MeanPlaytime,9.225
+438,F1 2014,PC,2014.0,MeanPlaytime,9.225
+439,Sniper Elite,PS2,2005.0,MeanPlaytime,26.71
+440,Sniper Elite,Wii,2010.0,MeanPlaytime,26.71
+441,Sniper Elite,XB,2005.0,MeanPlaytime,26.71
+442,Sniper Elite,PC,2005.0,MeanPlaytime,26.71
+443,Tom Clancy's EndWar,X360,2008.0,MeanPlaytime,1.7333333333333334
+444,Tom Clancy's EndWar,PS3,2008.0,MeanPlaytime,1.7333333333333334
+445,Tom Clancy's EndWar,PSP,2008.0,MeanPlaytime,1.7333333333333334
+446,Tom Clancy's EndWar,DS,2008.0,MeanPlaytime,1.7333333333333334
+447,Tom Clancy's EndWar,PC,2009.0,MeanPlaytime,1.7333333333333334
+448,Fallout 3,X360,2008.0,MeanPlaytime,18.14736842105263
+449,Fallout 3,PS3,2008.0,MeanPlaytime,18.14736842105263
+450,Fallout 3,PC,2008.0,MeanPlaytime,18.14736842105263
+451,Evil Genius,PC,2004.0,MeanPlaytime,16.791666666666668
+452,Pillars of Eternity,PC,2014.0,MeanPlaytime,37.15121951219513
+453,Tales of Zestiria,PS3,2015.0,MeanPlaytime,28.442857142857147
+454,Tales of Zestiria,PS4,2015.0,MeanPlaytime,28.442857142857147
+455,Trials Fusion,PS4,2014.0,MeanPlaytime,19.614285714285717
+456,Trials Fusion,XOne,2014.0,MeanPlaytime,19.614285714285717
+457,Trials Fusion,PC,2014.0,MeanPlaytime,19.614285714285717
+458,Bulletstorm,X360,2011.0,MeanPlaytime,13.034782608695656
+459,Bulletstorm,PS3,2011.0,MeanPlaytime,13.034782608695656
+460,Bulletstorm,PC,2011.0,MeanPlaytime,13.034782608695656
+461,NBA 2K16,PS4,2015.0,MeanPlaytime,82.77499999999999
+462,NBA 2K16,XOne,2015.0,MeanPlaytime,82.77499999999999
+463,NBA 2K16,X360,2015.0,MeanPlaytime,82.77499999999999
+464,NBA 2K16,PS3,2015.0,MeanPlaytime,82.77499999999999
+465,NBA 2K16,PC,2015.0,MeanPlaytime,82.77499999999999
+466,Rocksmith 2014,PS3,2013.0,MeanPlaytime,69.256
+467,Rocksmith 2014,X360,2013.0,MeanPlaytime,69.256
+468,Rocksmith 2014,PC,2013.0,MeanPlaytime,69.256
+469,Rocksmith 2014,PS4,2014.0,MeanPlaytime,69.256
+470,Rocksmith 2014,XOne,2014.0,MeanPlaytime,69.256
+471,Grand Theft Auto,PS,1997.0,MeanPlaytime,0.32
+472,Grand Theft Auto,GBA,2004.0,MeanPlaytime,0.32
+473,Mini Ninjas,Wii,2009.0,MeanPlaytime,4.5
+474,Mini Ninjas,PS3,2009.0,MeanPlaytime,4.5
+475,Mini Ninjas,DS,2009.0,MeanPlaytime,4.5
+476,Mini Ninjas,X360,2009.0,MeanPlaytime,4.5
+477,Mini Ninjas,PC,2009.0,MeanPlaytime,4.5
+478,Ikaruga,GC,2003.0,MeanPlaytime,1.5999999999999999
+479,WWE 2K15,PS4,2014.0,MeanPlaytime,28.919999999999998
+480,WWE 2K15,PS3,2014.0,MeanPlaytime,28.919999999999998
+481,WWE 2K15,X360,2014.0,MeanPlaytime,28.919999999999998
+482,WWE 2K15,XOne,2014.0,MeanPlaytime,28.919999999999998
+483,Dungeon Siege III,PS3,2011.0,MeanPlaytime,6.34516129032258
+484,Dungeon Siege III,X360,2011.0,MeanPlaytime,6.34516129032258
+485,Dungeon Siege III,PC,2011.0,MeanPlaytime,6.34516129032258
+486,15 Days,PC,2009.0,MeanPlaytime,0.5
+487,The Secret World,PC,2012.0,MeanPlaytime,22.418749999999996
+488,Alpha Protocol,PS3,2010.0,MeanPlaytime,3.52
+489,Alpha Protocol,X360,2010.0,MeanPlaytime,3.52
+490,Alpha Protocol,PC,2010.0,MeanPlaytime,3.52
+491,Mount & Blade,PC,2008.0,MeanPlaytime,25.08620689655172
+492,Syberia,DS,2008.0,MeanPlaytime,2.6571428571428575
+493,Syberia,XB,2003.0,MeanPlaytime,2.6571428571428575
+494,Syberia,PC,2002.0,MeanPlaytime,2.6571428571428575
+495,Winning Post 8 2015,PSV,2015.0,MeanPlaytime,127.0
+496,Winning Post 8 2015,PS3,2015.0,MeanPlaytime,127.0
+497,Zombie Army Trilogy,PS4,2015.0,MeanPlaytime,4.4
+498,Zombie Army Trilogy,XOne,2015.0,MeanPlaytime,4.4
+499,Airline Tycoon 2,PC,2011.0,MeanPlaytime,6.2
+500,Cities XL 2012,PC,2011.0,MeanPlaytime,42.90909090909091
+501,Remember Me,PS3,2013.0,MeanPlaytime,5.975999999999999
+502,Remember Me,X360,2013.0,MeanPlaytime,5.975999999999999
+503,Remember Me,PC,2013.0,MeanPlaytime,5.975999999999999
+504,Quake II,PS,1998.0,MeanPlaytime,2.5
+505,Quake II,N64,1999.0,MeanPlaytime,2.5
+506,Tomb Raider II,PS,1997.0,MeanPlaytime,1.4999999999999998
+507,Tomb Raider II,PC,1997.0,MeanPlaytime,1.4999999999999998
+508,X-Blades,X360,2009.0,MeanPlaytime,2.66
+509,X-Blades,PS3,2009.0,MeanPlaytime,2.66
+510,Sacred Gold,PC,2005.0,MeanPlaytime,1.933333333333333
+511,Call of Duty 2,X360,2005.0,MeanPlaytime,5.1875
+512,Call of Duty 2,PC,2005.0,MeanPlaytime,5.1875
+513,F1 2013,PS3,2013.0,MeanPlaytime,47.46666666666667
+514,F1 2013,X360,2013.0,MeanPlaytime,47.46666666666667
+515,Devil May Cry 4,PS3,2008.0,MeanPlaytime,6.372222222222223
+516,Devil May Cry 4,X360,2008.0,MeanPlaytime,6.372222222222223
+517,Devil May Cry 4,PS4,2015.0,MeanPlaytime,6.372222222222223
+518,Devil May Cry 4,PC,2008.0,MeanPlaytime,6.372222222222223
+519,Binary Domain,PS3,2012.0,MeanPlaytime,4.8999999999999995
+520,Binary Domain,X360,2012.0,MeanPlaytime,4.8999999999999995
+521,NBA 2K14,X360,2013.0,MeanPlaytime,93.21874999999999
+522,NBA 2K14,PS3,2013.0,MeanPlaytime,93.21874999999999
+523,NBA 2K14,PS4,2013.0,MeanPlaytime,93.21874999999999
+524,NBA 2K14,XOne,2013.0,MeanPlaytime,93.21874999999999
+525,Lost Planet 3,PS3,2013.0,MeanPlaytime,10.699999999999998
+526,Lost Planet 3,X360,2013.0,MeanPlaytime,10.699999999999998
+527,Lost Planet 3,PC,2013.0,MeanPlaytime,10.699999999999998
+528,Assetto Corsa,PS4,2016.0,MeanPlaytime,15.738888888888887
+529,Assetto Corsa,XOne,2016.0,MeanPlaytime,15.738888888888887
+530,Rocksmith,PS3,2011.0,MeanPlaytime,12.688888888888888
+531,Rocksmith,X360,2011.0,MeanPlaytime,12.688888888888888
+532,Rocksmith,PC,,MeanPlaytime,12.688888888888888
+533,Cities in Motion,PC,2011.0,MeanPlaytime,23.599999999999998
+534,The Cursed Crusade,PS3,2011.0,MeanPlaytime,1.125
+535,The Cursed Crusade,X360,2011.0,MeanPlaytime,1.125
+536,The Cursed Crusade,PC,2011.0,MeanPlaytime,1.125
+537,Alone in the Dark,X360,2008.0,MeanPlaytime,0.4
+538,Alone in the Dark,Wii,2008.0,MeanPlaytime,0.4
+539,Alone in the Dark,PS2,2008.0,MeanPlaytime,0.4
+540,Alone in the Dark,PC,2008.0,MeanPlaytime,0.4
+541,Lost Planet 2,PS3,2010.0,MeanPlaytime,3.9125000000000005
+542,Lost Planet 2,X360,2010.0,MeanPlaytime,3.9125000000000005
+543,Lost Planet 2,PC,2010.0,MeanPlaytime,3.9125000000000005
+544,Bound By Flame,PS4,2014.0,MeanPlaytime,12.242857142857144
+545,Prince of Persia,PS3,2008.0,MeanPlaytime,1.4
+546,Prince of Persia,X360,2008.0,MeanPlaytime,1.4
+547,Killer is Dead,PS3,2013.0,MeanPlaytime,2.4200000000000004
+548,Killer is Dead,X360,2013.0,MeanPlaytime,2.4200000000000004
+549,NBA 2K9,X360,2008.0,MeanPlaytime,32.65714285714286
+550,NBA 2K9,PS3,2008.0,MeanPlaytime,32.65714285714286
+551,NBA 2K9,PS2,2008.0,MeanPlaytime,32.65714285714286
+552,World of Zoo,DS,2009.0,MeanPlaytime,1.2
+553,World of Zoo,Wii,2009.0,MeanPlaytime,1.2
+554,World of Zoo,PC,2009.0,MeanPlaytime,1.2
+555,Descent,PS,1996.0,MeanPlaytime,6.8
+556,Sonic CD,SCD,1993.0,MeanPlaytime,1.8285714285714285
+557,Tom Clancy's Splinter Cell,XB,2002.0,MeanPlaytime,1.1
+558,Tom Clancy's Splinter Cell,PS2,2003.0,MeanPlaytime,1.1
+559,Tom Clancy's Splinter Cell,GC,2003.0,MeanPlaytime,1.1
+560,Tom Clancy's Splinter Cell,GBA,2003.0,MeanPlaytime,1.1
+561,Take On Helicopters,PC,2011.0,MeanPlaytime,7.514285714285714
+562,Railroad Tycoon 3,PC,2003.0,MeanPlaytime,3.5200000000000005
+563,DarkStar One,PC,2006.0,MeanPlaytime,13.966666666666667
+564,Rayman Origins,PS3,2011.0,MeanPlaytime,12.059999999999999
+565,Rayman Origins,X360,2011.0,MeanPlaytime,12.059999999999999
+566,Rayman Origins,Wii,2011.0,MeanPlaytime,12.059999999999999
+567,Rayman Origins,PSV,2012.0,MeanPlaytime,12.059999999999999
+568,Rayman Origins,3DS,2012.0,MeanPlaytime,12.059999999999999
+569,Rayman Origins,PC,2012.0,MeanPlaytime,12.059999999999999
+570,Order of War,PC,2009.0,MeanPlaytime,4.633333333333334
+571,War for the Overworld,PC,2015.0,MeanPlaytime,10.154545454545454
+572,Assassin's Creed Syndicate,PS4,2015.0,MeanPlaytime,32.13333333333333
+573,Assassin's Creed Syndicate,XOne,2015.0,MeanPlaytime,32.13333333333333
+574,Assassin's Creed Syndicate,PC,2015.0,MeanPlaytime,32.13333333333333
+575,The Bard's Tale,PS2,2004.0,MeanPlaytime,2.583333333333333
+576,The Bard's Tale,XB,2004.0,MeanPlaytime,2.583333333333333
+577,Demigod,PC,2009.0,MeanPlaytime,13.090909090909092
+578,F1 2010,PS3,2010.0,MeanPlaytime,18.516666666666666
+579,F1 2010,X360,2010.0,MeanPlaytime,18.516666666666666
+580,F1 2010,PC,2010.0,MeanPlaytime,18.516666666666666
+581,Mechanic Escape,PS3,2012.0,MeanPlaytime,2.033333333333333
+582,The Inner World,PC,2013.0,MeanPlaytime,1.3
+583,Age of Empires Online,PC,2011.0,MeanPlaytime,83.19999999999999
+584,Act of Aggression,PC,2015.0,MeanPlaytime,4.25
+585,Port Royale 3,PS3,,MeanPlaytime,16.30909090909091
+586,Port Royale 3,X360,,MeanPlaytime,16.30909090909091
+587,F1 2015,PS4,2015.0,MeanPlaytime,18.900000000000002
+588,F1 2015,XOne,2015.0,MeanPlaytime,18.900000000000002
+589,F1 2015,PC,2015.0,MeanPlaytime,18.900000000000002
+590,Stronghold Legends,PC,2006.0,MeanPlaytime,4.483333333333333
+591,Dragon Age II,X360,2011.0,MeanPlaytime,74.56
+592,Dragon Age II,PS3,2011.0,MeanPlaytime,74.56
+593,Dragon Age II,PC,2011.0,MeanPlaytime,74.56
+594,F1 2011,PS3,2011.0,MeanPlaytime,15.739999999999998
+595,F1 2011,X360,2011.0,MeanPlaytime,15.739999999999998
+596,F1 2011,PC,2011.0,MeanPlaytime,15.739999999999998
+597,F1 2011,3DS,2011.0,MeanPlaytime,15.739999999999998
+598,F1 2011,PSV,2011.0,MeanPlaytime,15.739999999999998
+599,Quake 4,X360,2005.0,MeanPlaytime,1.4999999999999998
+600,Quake 4,PC,2005.0,MeanPlaytime,1.4999999999999998
+601,Sacred 3,PS3,2014.0,MeanPlaytime,26.083333333333332
+602,Sacred 3,X360,2014.0,MeanPlaytime,26.083333333333332
+603,Sacred 3,PC,2014.0,MeanPlaytime,26.083333333333332
+604,Front Mission Evolved,PS3,2010.0,MeanPlaytime,8.185714285714285
+605,Front Mission Evolved,X360,2010.0,MeanPlaytime,8.185714285714285
+606,Front Mission Evolved,PC,2010.0,MeanPlaytime,8.185714285714285
+607,Quake,N64,1998.0,MeanPlaytime,3.1875
+608,DiRT,PS3,2007.0,MeanPlaytime,4.0
+609,DiRT,X360,2007.0,MeanPlaytime,4.0
+610,DiRT,PC,2007.0,MeanPlaytime,4.0
+611,Fairy Fencer F,PS3,2013.0,MeanPlaytime,26.05
+612,Rugby League Team Manager 2015,PC,2015.0,MeanPlaytime,10.25
+613,MLB Front Office Manager,PS3,2009.0,MeanPlaytime,31.96666666666667
+614,MLB Front Office Manager,X360,2009.0,MeanPlaytime,31.96666666666667
+615,Guilty Gear X2 #Reload,XB,2004.0,MeanPlaytime,0.55
+616,Euro Truck Simulator,PC,2008.0,MeanPlaytime,1.4375
+617,Pro Evolution Soccer 2016,PS4,2015.0,MeanPlaytime,54.666666666666664
+618,Pro Evolution Soccer 2016,PS3,2015.0,MeanPlaytime,54.666666666666664
+619,Pro Evolution Soccer 2016,XOne,2015.0,MeanPlaytime,54.666666666666664
+620,Pro Evolution Soccer 2016,X360,2015.0,MeanPlaytime,54.666666666666664
+621,Pro Evolution Soccer 2016,PC,2015.0,MeanPlaytime,54.666666666666664
+622,Emergency 2012,PC,2010.0,MeanPlaytime,46.0
+623,Emergency 2012,DS,2010.0,MeanPlaytime,46.0
+624,Cities XL 2011,PC,2010.0,MeanPlaytime,10.87142857142857
+625,Terminator Salvation,PS3,2009.0,MeanPlaytime,3.7
+626,Terminator Salvation,X360,2009.0,MeanPlaytime,3.7
+627,World in Conflict,PC,2007.0,MeanPlaytime,0.55
+628,Unreal Tournament 2004,PC,2004.0,MeanPlaytime,4.209090909090909
+629,Max Payne,PS2,2001.0,MeanPlaytime,5.0687500000000005
+630,Max Payne,XB,2001.0,MeanPlaytime,5.0687500000000005
+631,Max Payne,GBA,2003.0,MeanPlaytime,5.0687500000000005
+632,Max Payne,PC,2001.0,MeanPlaytime,5.0687500000000005
+633,Platypus,PSP,2006.0,MeanPlaytime,3.0500000000000003
+634,Knights of Honor,PC,2004.0,MeanPlaytime,39.8
+635,Virtua Tennis 4,PS3,2011.0,MeanPlaytime,2.5
+636,Virtua Tennis 4,X360,2011.0,MeanPlaytime,2.5
+637,Virtua Tennis 4,Wii,2011.0,MeanPlaytime,2.5
+638,Virtua Tennis 4,PC,2011.0,MeanPlaytime,2.5
+639,NBA 2K13,X360,2012.0,MeanPlaytime,50.78333333333333
+640,NBA 2K13,PS3,2012.0,MeanPlaytime,50.78333333333333
+641,NBA 2K13,Wii,2012.0,MeanPlaytime,50.78333333333333
+642,NBA 2K13,WiiU,2012.0,MeanPlaytime,50.78333333333333
+643,NBA 2K13,PC,2012.0,MeanPlaytime,50.78333333333333
+644,F1 Race Stars,PS3,2012.0,MeanPlaytime,5.475
+645,F1 Race Stars,X360,2012.0,MeanPlaytime,5.475
+646,F1 Race Stars,PC,2012.0,MeanPlaytime,5.475
+647,Darkspore,PC,2011.0,MeanPlaytime,25.166666666666668
+648,Silent Hunter III,PC,2005.0,MeanPlaytime,3.9500000000000006
+649,Grand Theft Auto 2,PS,1998.0,MeanPlaytime,2.6166666666666663
+650,Mafia,PS2,2004.0,MeanPlaytime,8.65
+651,Mafia,XB,2004.0,MeanPlaytime,8.65
+652,Mafia,PC,2002.0,MeanPlaytime,8.65
+653,Blades of Time,X360,2012.0,MeanPlaytime,8.116666666666665
+654,Blades of Time,PS3,2012.0,MeanPlaytime,8.116666666666665
+655,The 7th Guest,PC,1992.0,MeanPlaytime,0.25
+656,Dungeons 2,PS4,2016.0,MeanPlaytime,14.483333333333334
+657,Hotel Giant 2,PC,2008.0,MeanPlaytime,44.0
+658,East India Company,PC,2009.0,MeanPlaytime,50.0
+659,Crysis 2,X360,2011.0,MeanPlaytime,22.342857142857145
+660,Crysis 2,PS3,2011.0,MeanPlaytime,22.342857142857145
+661,Crysis 2,PC,2011.0,MeanPlaytime,22.342857142857145
+662,Contrast,PC,2013.0,MeanPlaytime,4.1
+663,TimeShift,X360,2007.0,MeanPlaytime,4.3
+664,TimeShift,PS3,2007.0,MeanPlaytime,4.3
+665,TimeShift,PC,2007.0,MeanPlaytime,4.3
+666,Tomb Raider Chronicles,PS,1999.0,MeanPlaytime,1.7
+667,MDK,PS,1997.0,MeanPlaytime,1.1
+668,The Void,PC,2008.0,MeanPlaytime,0.825
+669,Arx Fatalis,XB,2003.0,MeanPlaytime,12.459999999999999
+670,Dark Void,PS3,2010.0,MeanPlaytime,0.4
+671,Dark Void,X360,2010.0,MeanPlaytime,0.4
+672,Dark Void,PC,2010.0,MeanPlaytime,0.4
+673,Ship Simulator Extremes,PC,2010.0,MeanPlaytime,15.433333333333332
+674,Lost Horizon,PC,2010.0,MeanPlaytime,18.633333333333333
+675,The Next BIG Thing,PC,2011.0,MeanPlaytime,1.35
+676,Enemy Front,PS3,2014.0,MeanPlaytime,11.419999999999998
+677,Enemy Front,X360,2014.0,MeanPlaytime,11.419999999999998
+678,Street Fighter X Tekken,PS3,2012.0,MeanPlaytime,4.475
+679,Street Fighter X Tekken,X360,2012.0,MeanPlaytime,4.475
+680,Street Fighter X Tekken,PSV,2012.0,MeanPlaytime,4.475
+681,Street Fighter X Tekken,PC,2012.0,MeanPlaytime,4.475
+682,Wolfenstein 3D,GBA,2002.0,MeanPlaytime,0.26666666666666666
+683,FlatOut,PS2,2004.0,MeanPlaytime,1.0875
+684,FlatOut,XB,2004.0,MeanPlaytime,1.0875
+685,Stormrise,PS3,2009.0,MeanPlaytime,0.45
+686,Stormrise,X360,2009.0,MeanPlaytime,0.45
+687,Stormrise,PC,2009.0,MeanPlaytime,0.45
+688,Anno 2205,PC,2015.0,MeanPlaytime,22.0
+689,Hospital Tycoon,PC,2007.0,MeanPlaytime,1.5599999999999998
+690,Crazy Taxi,PS2,2001.0,MeanPlaytime,0.6
+691,Crazy Taxi,DC,2000.0,MeanPlaytime,0.6
+692,Crazy Taxi,GC,2001.0,MeanPlaytime,0.6
+693,Section 8,X360,2009.0,MeanPlaytime,13.566666666666668
+694,Section 8,PC,2009.0,MeanPlaytime,13.566666666666668
+695,The Golf Club,PS4,2014.0,MeanPlaytime,10.45
+696,The Golf Club,XOne,2014.0,MeanPlaytime,10.45
+697,Dollar Dash,PS2,2005.0,MeanPlaytime,1.0
+698,Shadow Man,N64,1999.0,MeanPlaytime,0.3
+699,Shadow Man,PS,1998.0,MeanPlaytime,0.3
+700,Stubbs the Zombie in Rebel Without a Pulse,XB,2005.0,MeanPlaytime,2.5500000000000003
+701,Red Faction II,PS2,2002.0,MeanPlaytime,4.466666666666667
+702,Red Faction II,XB,2003.0,MeanPlaytime,4.466666666666667
+703,Red Faction II,GC,2003.0,MeanPlaytime,4.466666666666667
+704,Beyond Good & Evil,PS2,2003.0,MeanPlaytime,4.733333333333333
+705,Beyond Good & Evil,XB,2003.0,MeanPlaytime,4.733333333333333
+706,Beyond Good & Evil,GC,2003.0,MeanPlaytime,4.733333333333333
+707,Guild Wars Trilogy,PC,2005.0,MeanPlaytime,9.9
+708,Puzzle Chronicles,PSP,2010.0,MeanPlaytime,0.9
+709,Velvet Assassin,X360,2009.0,MeanPlaytime,1.75
+710,The Night of the Rabbit,PC,2013.0,MeanPlaytime,8.4
+711,Gun Metal,XB,2002.0,MeanPlaytime,4.45
+712,Lara Croft and the Temple of Osiris,PS4,2014.0,MeanPlaytime,4.625
+713,Lara Croft and the Temple of Osiris,PC,2014.0,MeanPlaytime,4.625
+714,MX vs. ATV Reflex,PS3,2009.0,MeanPlaytime,5.128571428571428
+715,MX vs. ATV Reflex,X360,2009.0,MeanPlaytime,5.128571428571428
+716,MX vs. ATV Reflex,PSP,2009.0,MeanPlaytime,5.128571428571428
+717,MX vs. ATV Reflex,DS,2009.0,MeanPlaytime,5.128571428571428
+718,Praetorians,PC,2003.0,MeanPlaytime,0.15000000000000002
+719,GTR Evolution,PC,2008.0,MeanPlaytime,6.933333333333334
+720,Clockwork Empires,PC,,MeanPlaytime,8.5
+721,Shantae and the Pirate's Curse,3DS,2015.0,MeanPlaytime,5.125
+722,Damnation,PS3,2009.0,MeanPlaytime,0.2
+723,Damnation,X360,2009.0,MeanPlaytime,0.2
+724,MX vs. ATV Supercross Encore,PS4,2015.0,MeanPlaytime,3.9
+725,MX vs. ATV Supercross Encore,XOne,2015.0,MeanPlaytime,3.9
+726,Elven Legacy,PC,2009.0,MeanPlaytime,8.6
+727,Worms,PS3,2009.0,MeanPlaytime,0.5
+728,Worms,X360,2007.0,MeanPlaytime,0.5
+729,Obscure,PS2,2004.0,MeanPlaytime,7.9
+730,Obscure,XB,2004.0,MeanPlaytime,7.9
+731,Haunted House,Wii,2010.0,MeanPlaytime,0.2
+732,Republique,PS4,2016.0,MeanPlaytime,3.65
+733,Still Life,XB,2005.0,MeanPlaytime,0.4
+734,Crazy Machines,DS,2008.0,MeanPlaytime,1.3
+735,Crazy Machines,Wii,2010.0,MeanPlaytime,1.3
+736,Impossible Creatures,PC,2002.0,MeanPlaytime,1.0999999999999999
+737,Monopoly,PC,1994.0,MeanPlaytime,4.725
+738,Monopoly,Wii,2008.0,MeanPlaytime,4.725
+739,Monopoly,PS,1997.0,MeanPlaytime,4.725
+740,Monopoly,X360,2008.0,MeanPlaytime,4.725
+741,Monopoly,PS2,2008.0,MeanPlaytime,4.725
+742,Monopoly,PS3,2008.0,MeanPlaytime,4.725
+743,Monopoly,DS,2010.0,MeanPlaytime,4.725
+744,Monopoly,N64,1999.0,MeanPlaytime,4.725
+745,Split/Second,PS3,2010.0,MeanPlaytime,3.95
+746,Split/Second,X360,2010.0,MeanPlaytime,3.95
+747,Split/Second,PSP,2010.0,MeanPlaytime,3.95
+748,Split/Second,PC,2010.0,MeanPlaytime,3.95
+749,RollerCoaster Tycoon,XB,2003.0,MeanPlaytime,1.4
+750,RollerCoaster Tycoon,PC,,MeanPlaytime,1.4
+751,Dawn of Discovery,PC,2009.0,MeanPlaytime,9.100000000000001
+752,Dawn of Discovery,Wii,2009.0,MeanPlaytime,9.100000000000001
+753,Dawn of Discovery,DS,2009.0,MeanPlaytime,9.100000000000001
+754,Ski Region Simulator,PC,2011.0,MeanPlaytime,5.699999999999999
+755,Call of Juarez,X360,2007.0,MeanPlaytime,6.0
+756,Call of Juarez,PC,2006.0,MeanPlaytime,6.0
+757,Gray Matter,PC,2011.0,MeanPlaytime,12.6
+758,Gray Matter,X360,2011.0,MeanPlaytime,12.6
+759,The Book of Unwritten Tales 2,PS4,2015.0,MeanPlaytime,13.5
+760,The Book of Unwritten Tales 2,WiiU,2016.0,MeanPlaytime,13.5
+761,Clive Barker's Jericho,X360,2007.0,MeanPlaytime,7.949999999999999
+762,Clive Barker's Jericho,PS3,2007.0,MeanPlaytime,7.949999999999999
+763,Clive Barker's Jericho,PC,2007.0,MeanPlaytime,7.949999999999999
+764,Post Mortem,PC,2003.0,MeanPlaytime,2.1
+765,Ford Racing 3,PS2,2004.0,MeanPlaytime,0.5
+766,Ford Racing 3,DS,2005.0,MeanPlaytime,0.5
+767,Ford Racing 3,XB,2004.0,MeanPlaytime,0.5
+768,Ford Racing 3,GBA,2005.0,MeanPlaytime,0.5
+769,Shattered Union,XB,2005.0,MeanPlaytime,116.0
+770,Port Royale 2,PC,2004.0,MeanPlaytime,43.95
+771,Blitzkrieg 2 Anthology,PC,2008.0,MeanPlaytime,7.266666666666667
+772,Rogue Trooper,PS2,2006.0,MeanPlaytime,5.3
+773,Rogue Trooper,XB,2006.0,MeanPlaytime,5.3
+774,Tom Clancy's Ghost Recon Advanced Warfighter,X360,2006.0,MeanPlaytime,18.6
+775,Tom Clancy's Ghost Recon Advanced Warfighter,XB,2006.0,MeanPlaytime,18.6
+776,Colin McRae Rally,PS,1998.0,MeanPlaytime,3.3000000000000003
+777,Guilty Gear Isuka,PS2,2004.0,MeanPlaytime,1.6
+778,The Club,X360,2008.0,MeanPlaytime,1.3
+779,The Club,PS3,2008.0,MeanPlaytime,1.3
+780,Azure Striker Gunvolt,3DS,2016.0,MeanPlaytime,5.5
+781,Midnight Club II,PS2,2003.0,MeanPlaytime,7.133333333333333
+782,Midnight Club II,XB,2003.0,MeanPlaytime,7.133333333333333
+783,Pro Evolution Soccer 2014,PS3,2013.0,MeanPlaytime,59.63333333333333
+784,Pro Evolution Soccer 2014,X360,2013.0,MeanPlaytime,59.63333333333333
+785,Pro Evolution Soccer 2014,3DS,2013.0,MeanPlaytime,59.63333333333333
+786,Pro Evolution Soccer 2014,PSP,2013.0,MeanPlaytime,59.63333333333333
+787,Pro Evolution Soccer 2014,PC,2013.0,MeanPlaytime,59.63333333333333
+788,Darkstone,PS,2001.0,MeanPlaytime,18.6
+789,Puzzle Quest 2,DS,2010.0,MeanPlaytime,1.4
+790,Don Bradman Cricket 14,PS4,2015.0,MeanPlaytime,89.0
+791,Don Bradman Cricket 14,XOne,2015.0,MeanPlaytime,89.0
+792,Don Bradman Cricket 14,PS3,2014.0,MeanPlaytime,89.0
+793,Wolfenstein,PS3,2009.0,MeanPlaytime,26.0
+794,Wolfenstein,X360,2009.0,MeanPlaytime,26.0
+795,Wolfenstein,PC,2009.0,MeanPlaytime,26.0
+796,Mega Man Legacy Collection,3DS,2016.0,MeanPlaytime,6.4
+797,Mega Man Legacy Collection,PS4,2016.0,MeanPlaytime,6.4
+798,BloodRayne 2,PS2,2004.0,MeanPlaytime,2.9
+799,BloodRayne 2,XB,2004.0,MeanPlaytime,2.9
+800,The Whispered World,PC,2009.0,MeanPlaytime,1.6
+801,NBA 2K11,X360,2010.0,MeanPlaytime,0.2
+802,NBA 2K11,PS3,2010.0,MeanPlaytime,0.2
+803,NBA 2K11,Wii,2010.0,MeanPlaytime,0.2
+804,NBA 2K11,PSP,2010.0,MeanPlaytime,0.2
+805,NBA 2K11,PS2,2010.0,MeanPlaytime,0.2
+806,NBA 2K11,PC,2010.0,MeanPlaytime,0.2
+807,Wildlife Park 3,PC,2011.0,MeanPlaytime,4.0
+808,NBA 2K12,X360,2011.0,MeanPlaytime,91.25
+809,NBA 2K12,PS3,2011.0,MeanPlaytime,91.25
+810,NBA 2K12,Wii,2011.0,MeanPlaytime,91.25
+811,NBA 2K12,PSP,2011.0,MeanPlaytime,91.25
+812,NBA 2K12,PC,2011.0,MeanPlaytime,91.25
+813,Tom Clancy's Ghost Recon,PS2,2002.0,MeanPlaytime,0.25
+814,Tom Clancy's Ghost Recon,XB,2002.0,MeanPlaytime,0.25
+815,Tom Clancy's Ghost Recon,GC,2003.0,MeanPlaytime,0.25
+816,Tom Clancy's Ghost Recon,Wii,2010.0,MeanPlaytime,0.25
+817,Pro Evolution Soccer 2013,PS3,2012.0,MeanPlaytime,5.6
+818,Pro Evolution Soccer 2013,X360,2012.0,MeanPlaytime,5.6
+819,Pro Evolution Soccer 2013,PSP,2012.0,MeanPlaytime,5.6
+820,Pro Evolution Soccer 2013,3DS,2012.0,MeanPlaytime,5.6
+821,Pro Evolution Soccer 2013,Wii,2012.0,MeanPlaytime,5.6
+822,Pro Evolution Soccer 2013,PC,2012.0,MeanPlaytime,5.6
+823,Breach,PC,2011.0,MeanPlaytime,4.266666666666667
+824,Dream Pinball 3D,Wii,2008.0,MeanPlaytime,0.4
+825,Dream Pinball 3D,DS,2008.0,MeanPlaytime,0.4
+826,Bionic Commando,PS3,2009.0,MeanPlaytime,1.2
+827,Bionic Commando,X360,2009.0,MeanPlaytime,1.2
+828,Championship Manager 2010,PC,2009.0,MeanPlaytime,10.7
+829,Tom Clancy's Ghost Recon Advanced Warfighter 2,PS3,2007.0,MeanPlaytime,0.3666666666666667
+830,Tom Clancy's Ghost Recon Advanced Warfighter 2,X360,2007.0,MeanPlaytime,0.3666666666666667
+831,Tom Clancy's Ghost Recon Advanced Warfighter 2,PSP,2007.0,MeanPlaytime,0.3666666666666667
+832,Imperial Glory,PC,2005.0,MeanPlaytime,170.0
+833,Jack Keane,PC,2008.0,MeanPlaytime,2.2
+834,BloodRayne,PS2,2002.0,MeanPlaytime,6.6
+835,BloodRayne,XB,2002.0,MeanPlaytime,6.6
+836,BloodRayne,GC,2002.0,MeanPlaytime,6.6
+837,Worldwide Soccer Manager 2009,PC,2008.0,MeanPlaytime,295.0

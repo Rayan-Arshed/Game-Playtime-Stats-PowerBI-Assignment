@@ -1,0 +1,839 @@
+Unnamed: 0,Name,Platform,Year_of_Release,Variable,Value
+33438,Fallout 4,PS4,2015.0,numberOfObservances,167.0
+33439,Fallout 4,XOne,2015.0,numberOfObservances,167.0
+33440,Fallout 4,PC,2015.0,numberOfObservances,167.0
+33441,Spore,PC,2008.0,numberOfObservances,58.0
+33442,Left 4 Dead 2,X360,2009.0,numberOfObservances,801.0
+33443,Left 4 Dead 2,PC,2009.0,numberOfObservances,801.0
+33444,Left 4 Dead,X360,2008.0,numberOfObservances,204.0
+33445,Left 4 Dead,PC,2008.0,numberOfObservances,204.0
+33446,Tomb Raider,PS,1996.0,numberOfObservances,204.0
+33447,Tomb Raider,PC,1996.0,numberOfObservances,204.0
+33448,BioShock Infinite,X360,2013.0,numberOfObservances,212.0
+33449,BioShock Infinite,PS3,2013.0,numberOfObservances,212.0
+33450,BioShock Infinite,PC,2013.0,numberOfObservances,212.0
+33451,Grand Theft Auto IV,X360,2008.0,numberOfObservances,226.0
+33452,Grand Theft Auto IV,PS3,2008.0,numberOfObservances,226.0
+33453,Grand Theft Auto IV,PC,2008.0,numberOfObservances,226.0
+33454,BioShock,X360,2007.0,numberOfObservances,143.0
+33455,BioShock,PS3,2008.0,numberOfObservances,143.0
+33456,BioShock,PC,2007.0,numberOfObservances,143.0
+33457,Ultra Street Fighter IV,PS4,2015.0,numberOfObservances,40.0
+33458,Sid Meier's Civilization V,PC,2010.0,numberOfObservances,554.0
+33459,L.A. Noire,PS3,2011.0,numberOfObservances,72.0
+33460,L.A. Noire,X360,2011.0,numberOfObservances,72.0
+33461,7 Days to Die,PS4,2016.0,numberOfObservances,98.0
+33462,7 Days to Die,XOne,2016.0,numberOfObservances,98.0
+33463,Company of Heroes,PC,2006.0,numberOfObservances,62.0
+33464,Assassin's Creed II,PS3,2009.0,numberOfObservances,59.0
+33465,Assassin's Creed II,X360,2009.0,numberOfObservances,59.0
+33466,Assassin's Creed II,PC,2010.0,numberOfObservances,59.0
+33467,Grand Theft Auto V,PS3,2013.0,numberOfObservances,269.0
+33468,Grand Theft Auto V,X360,2013.0,numberOfObservances,269.0
+33469,Grand Theft Auto V,PS4,2014.0,numberOfObservances,269.0
+33470,Grand Theft Auto V,XOne,2014.0,numberOfObservances,269.0
+33471,Grand Theft Auto V,PC,2015.0,numberOfObservances,269.0
+33472,Far Cry 3,PS3,2012.0,numberOfObservances,181.0
+33473,Far Cry 3,X360,2012.0,numberOfObservances,181.0
+33474,Far Cry 3,PC,2012.0,numberOfObservances,181.0
+33475,Rocket League,PS4,2016.0,numberOfObservances,149.0
+33476,Rocket League,XOne,2016.0,numberOfObservances,149.0
+33477,Rocket League,PC,2016.0,numberOfObservances,149.0
+33478,Far Cry 4,PS4,2014.0,numberOfObservances,35.0
+33479,Far Cry 4,XOne,2014.0,numberOfObservances,35.0
+33480,Far Cry 4,PS3,2014.0,numberOfObservances,35.0
+33481,Far Cry 4,X360,2014.0,numberOfObservances,35.0
+33482,Far Cry 4,PC,2014.0,numberOfObservances,35.0
+33483,Dying Light,PS4,2015.0,numberOfObservances,80.0
+33484,Dying Light,XOne,2015.0,numberOfObservances,80.0
+33485,Dying Light,PC,2015.0,numberOfObservances,80.0
+33486,Just Cause 2,PS3,2010.0,numberOfObservances,186.0
+33487,Just Cause 2,X360,2010.0,numberOfObservances,186.0
+33488,Just Cause 2,PC,2010.0,numberOfObservances,186.0
+33489,Mirror's Edge,X360,2008.0,numberOfObservances,119.0
+33490,Mirror's Edge,PS3,2008.0,numberOfObservances,119.0
+33491,Mirror's Edge,PC,2009.0,numberOfObservances,119.0
+33492,Portal 2,X360,2011.0,numberOfObservances,453.0
+33493,Portal 2,PS3,2011.0,numberOfObservances,453.0
+33494,Portal 2,PC,2011.0,numberOfObservances,453.0
+33495,Tropico 4,X360,,numberOfObservances,68.0
+33496,Tropico 4,PC,2011.0,numberOfObservances,68.0
+33497,F.E.A.R.,PS3,2007.0,numberOfObservances,24.0
+33498,F.E.A.R.,X360,2006.0,numberOfObservances,24.0
+33499,Sleeping Dogs,PS3,2012.0,numberOfObservances,85.0
+33500,Sleeping Dogs,X360,2012.0,numberOfObservances,85.0
+33501,Sleeping Dogs,PS4,2014.0,numberOfObservances,85.0
+33502,Sleeping Dogs,XOne,2014.0,numberOfObservances,85.0
+33503,Sleeping Dogs,PC,2012.0,numberOfObservances,85.0
+33504,Saints Row IV,X360,2013.0,numberOfObservances,129.0
+33505,Saints Row IV,PS3,2013.0,numberOfObservances,129.0
+33506,Saints Row IV,PS4,2015.0,numberOfObservances,129.0
+33507,Saints Row IV,XOne,2015.0,numberOfObservances,129.0
+33508,Saints Row IV,PC,2013.0,numberOfObservances,129.0
+33509,Half-Life 2,PC,2004.0,numberOfObservances,356.0
+33510,Half-Life 2,XB,2005.0,numberOfObservances,356.0
+33511,The Talos Principle,PS4,2015.0,numberOfObservances,24.0
+33512,DiRT 3,PS3,2011.0,numberOfObservances,49.0
+33513,DiRT 3,X360,2011.0,numberOfObservances,49.0
+33514,DiRT 3,PC,2011.0,numberOfObservances,49.0
+33515,Metro 2033,X360,2010.0,numberOfObservances,175.0
+33516,Metro 2033,PC,2010.0,numberOfObservances,175.0
+33517,Assassin's Creed III,PS3,2012.0,numberOfObservances,56.0
+33518,Assassin's Creed III,X360,2012.0,numberOfObservances,56.0
+33519,Assassin's Creed III,PC,2012.0,numberOfObservances,56.0
+33520,Assassin's Creed III,WiiU,2012.0,numberOfObservances,56.0
+33521,Sniper Elite 3,PS4,2014.0,numberOfObservances,53.0
+33522,Sniper Elite 3,XOne,2014.0,numberOfObservances,53.0
+33523,Sniper Elite 3,X360,2014.0,numberOfObservances,53.0
+33524,Sniper Elite 3,PS3,2014.0,numberOfObservances,53.0
+33525,Dishonored,X360,2012.0,numberOfObservances,145.0
+33526,Dishonored,PS3,2012.0,numberOfObservances,145.0
+33527,Dishonored,PC,2012.0,numberOfObservances,145.0
+33528,Dishonored,PS4,2015.0,numberOfObservances,145.0
+33529,Dishonored,XOne,2015.0,numberOfObservances,145.0
+33530,Dead Space,PS3,2008.0,numberOfObservances,65.0
+33531,Dead Space,X360,2008.0,numberOfObservances,65.0
+33532,Dead Space,PC,2008.0,numberOfObservances,65.0
+33533,The Binding of Isaac,PC,2012.0,numberOfObservances,168.0
+33534,LEGO The Lord of the Rings,X360,2012.0,numberOfObservances,30.0
+33535,LEGO The Lord of the Rings,PS3,2012.0,numberOfObservances,30.0
+33536,LEGO The Lord of the Rings,Wii,2012.0,numberOfObservances,30.0
+33537,LEGO The Lord of the Rings,3DS,2012.0,numberOfObservances,30.0
+33538,LEGO The Lord of the Rings,PSV,2012.0,numberOfObservances,30.0
+33539,LEGO The Lord of the Rings,PC,2012.0,numberOfObservances,30.0
+33540,LEGO The Lord of the Rings,DS,2012.0,numberOfObservances,30.0
+33541,Goat Simulator,XOne,2016.0,numberOfObservances,130.0
+33542,Mass Effect,X360,2007.0,numberOfObservances,69.0
+33543,Mass Effect,PC,2008.0,numberOfObservances,69.0
+33544,DiRT Showdown,X360,2012.0,numberOfObservances,23.0
+33545,DiRT Showdown,PS3,2012.0,numberOfObservances,23.0
+33546,Borderlands 2,X360,2012.0,numberOfObservances,386.0
+33547,Borderlands 2,PS3,2012.0,numberOfObservances,386.0
+33548,Borderlands 2,PC,2012.0,numberOfObservances,386.0
+33549,Borderlands 2,PSV,2014.0,numberOfObservances,386.0
+33550,Trine,PC,2009.0,numberOfObservances,72.0
+33551,Far Cry 2,X360,2008.0,numberOfObservances,53.0
+33552,Far Cry 2,PS3,2008.0,numberOfObservances,53.0
+33553,Far Cry 2,PC,2008.0,numberOfObservances,53.0
+33554,Oil Rush,PC,2012.0,numberOfObservances,9.0
+33555,Psychonauts,XB,2005.0,numberOfObservances,42.0
+33556,Psychonauts,PS2,2005.0,numberOfObservances,42.0
+33557,Dead Island,X360,2011.0,numberOfObservances,182.0
+33558,Dead Island,PS3,2011.0,numberOfObservances,182.0
+33559,Dead Island,PC,2011.0,numberOfObservances,182.0
+33560,GRID 2,PS3,2013.0,numberOfObservances,57.0
+33561,GRID 2,X360,2013.0,numberOfObservances,57.0
+33562,GRID 2,PC,2013.0,numberOfObservances,57.0
+33563,Sonic & All-Stars Racing Transformed,X360,2012.0,numberOfObservances,32.0
+33564,Sonic & All-Stars Racing Transformed,WiiU,2012.0,numberOfObservances,32.0
+33565,Sonic & All-Stars Racing Transformed,PS3,2012.0,numberOfObservances,32.0
+33566,Sonic & All-Stars Racing Transformed,PSV,2012.0,numberOfObservances,32.0
+33567,Sonic & All-Stars Racing Transformed,3DS,2012.0,numberOfObservances,32.0
+33568,Sonic & All-Stars Racing Transformed,PC,2013.0,numberOfObservances,32.0
+33569,Prison Architect,PS4,2016.0,numberOfObservances,98.0
+33570,Prison Architect,XOne,2016.0,numberOfObservances,98.0
+33571,Valkyria Chronicles,PS3,2008.0,numberOfObservances,29.0
+33572,Valkyria Chronicles,PS4,2016.0,numberOfObservances,29.0
+33573,The Crew,PS4,2014.0,numberOfObservances,20.0
+33574,The Crew,XOne,2014.0,numberOfObservances,20.0
+33575,The Crew,X360,2014.0,numberOfObservances,20.0
+33576,The Crew,PC,2014.0,numberOfObservances,20.0
+33577,Sonic Generations,PS3,2011.0,numberOfObservances,28.0
+33578,Sonic Generations,X360,2011.0,numberOfObservances,28.0
+33579,Sonic Generations,3DS,2011.0,numberOfObservances,28.0
+33580,Sonic Generations,PC,2011.0,numberOfObservances,28.0
+33581,Dungeon Defenders,PC,2011.0,numberOfObservances,111.0
+33582,TERA,PC,,numberOfObservances,118.0
+33583,Mafia II,X360,2010.0,numberOfObservances,116.0
+33584,Mafia II,PS3,2010.0,numberOfObservances,116.0
+33585,Mafia II,PC,2010.0,numberOfObservances,116.0
+33586,APB Reloaded,PC,2011.0,numberOfObservances,138.0
+33587,Deadpool,PS3,2013.0,numberOfObservances,13.0
+33588,Deadpool,X360,2013.0,numberOfObservances,13.0
+33589,Deadpool,PS4,2015.0,numberOfObservances,13.0
+33590,Deadpool,XOne,2015.0,numberOfObservances,13.0
+33591,Counter-Strike,XB,2003.0,numberOfObservances,568.0
+33592,Project CARS,PS4,2015.0,numberOfObservances,24.0
+33593,Project CARS,XOne,2015.0,numberOfObservances,24.0
+33594,Project CARS,PC,2015.0,numberOfObservances,24.0
+33595,World of Goo,PC,2008.0,numberOfObservances,41.0
+33596,Machinarium,PC,2009.0,numberOfObservances,34.0
+33597,Braid,PC,2009.0,numberOfObservances,40.0
+33598,Botanicula,PC,2012.0,numberOfObservances,16.0
+33599,Terraria,X360,2013.0,numberOfObservances,460.0
+33600,Terraria,PS3,2013.0,numberOfObservances,460.0
+33601,Terraria,PC,2011.0,numberOfObservances,460.0
+33602,Terraria,PSV,2013.0,numberOfObservances,460.0
+33603,Terraria,3DS,2016.0,numberOfObservances,460.0
+33604,Terraria,PS4,2014.0,numberOfObservances,460.0
+33605,Terraria,XOne,2014.0,numberOfObservances,460.0
+33606,Terraria,WiiU,2016.0,numberOfObservances,460.0
+33607,Saints Row 2,X360,2008.0,numberOfObservances,57.0
+33608,Saints Row 2,PS3,2008.0,numberOfObservances,57.0
+33609,Saints Row 2,PC,2009.0,numberOfObservances,57.0
+33610,GRID,PS3,2008.0,numberOfObservances,28.0
+33611,GRID,X360,2008.0,numberOfObservances,28.0
+33612,GRID,DS,,numberOfObservances,28.0
+33613,GRID,PC,,numberOfObservances,28.0
+33614,Darksiders,X360,2010.0,numberOfObservances,91.0
+33615,Darksiders,PC,2010.0,numberOfObservances,91.0
+33616,Darksiders,PS3,2010.0,numberOfObservances,91.0
+33617,Worms Reloaded,PC,2010.0,numberOfObservances,50.0
+33618,Alan Wake,X360,2010.0,numberOfObservances,88.0
+33619,Alan Wake,PC,2012.0,numberOfObservances,88.0
+33620,Peggle Nights,PC,2008.0,numberOfObservances,7.0
+33621,Puzzler World 2,DS,2010.0,numberOfObservances,1.0
+33622,Bejeweled 3,DS,,numberOfObservances,14.0
+33623,Bejeweled 3,PS3,,numberOfObservances,14.0
+33624,Bejeweled 3,X360,,numberOfObservances,14.0
+33625,Bejeweled 3,PC,2010.0,numberOfObservances,14.0
+33626,The Book of Unwritten Tales,PC,2009.0,numberOfObservances,9.0
+33627,The Movies,PC,2005.0,numberOfObservances,1.0
+33628,The Testament of Sherlock Holmes,PS3,2012.0,numberOfObservances,17.0
+33629,The Testament of Sherlock Holmes,PC,2012.0,numberOfObservances,17.0
+33630,The Testament of Sherlock Holmes,X360,2012.0,numberOfObservances,17.0
+33631,Indigo Prophecy,PS2,2005.0,numberOfObservances,3.0
+33632,Indigo Prophecy,XB,2005.0,numberOfObservances,3.0
+33633,Indigo Prophecy,PC,2005.0,numberOfObservances,3.0
+33634,DiRT 2,PS3,2009.0,numberOfObservances,25.0
+33635,DiRT 2,X360,2009.0,numberOfObservances,25.0
+33636,DiRT 2,Wii,2009.0,numberOfObservances,25.0
+33637,DiRT 2,PSP,2009.0,numberOfObservances,25.0
+33638,DiRT 2,DS,2009.0,numberOfObservances,25.0
+33639,DiRT 2,PC,2009.0,numberOfObservances,25.0
+33640,4 Elements,PC,2009.0,numberOfObservances,4.0
+33641,Singularity,X360,,numberOfObservances,8.0
+33642,Singularity,PS3,,numberOfObservances,8.0
+33643,Singularity,PC,2010.0,numberOfObservances,8.0
+33644,CID The Dummy,PSP,2009.0,numberOfObservances,1.0
+33645,CID The Dummy,Wii,2009.0,numberOfObservances,1.0
+33646,The Wolf Among Us,PS4,2014.0,numberOfObservances,44.0
+33647,The Wolf Among Us,PS3,2014.0,numberOfObservances,44.0
+33648,The Wolf Among Us,XOne,2014.0,numberOfObservances,44.0
+33649,The Wolf Among Us,PSV,2014.0,numberOfObservances,44.0
+33650,The Wolf Among Us,X360,2011.0,numberOfObservances,44.0
+33651,State of Decay,XOne,2015.0,numberOfObservances,64.0
+33652,Half-Life,PC,1997.0,numberOfObservances,116.0
+33653,Half-Life,PS2,2001.0,numberOfObservances,116.0
+33654,Trine 2,PC,2011.0,numberOfObservances,131.0
+33655,Trine 2,WiiU,2012.0,numberOfObservances,131.0
+33656,Blur,PS3,2010.0,numberOfObservances,7.0
+33657,Blur,X360,2010.0,numberOfObservances,7.0
+33658,Blur,PC,2010.0,numberOfObservances,7.0
+33659,Magicka,PC,2011.0,numberOfObservances,193.0
+33660,The Longest Journey,PC,1999.0,numberOfObservances,7.0
+33661,Sid Meier's Civilization IV,PC,2005.0,numberOfObservances,41.0
+33662,Euro Truck Simulator 2,PC,2012.0,numberOfObservances,171.0
+33663,Just Cause,X360,2006.0,numberOfObservances,12.0
+33664,Just Cause,PC,2006.0,numberOfObservances,12.0
+33665,Just Cause,PS2,2006.0,numberOfObservances,12.0
+33666,This War of Mine,PS4,2016.0,numberOfObservances,54.0
+33667,Sniper Elite V2,PS3,2012.0,numberOfObservances,177.0
+33668,Sniper Elite V2,X360,2012.0,numberOfObservances,177.0
+33669,Sniper Elite V2,WiiU,2013.0,numberOfObservances,177.0
+33670,Stronghold 3,PC,2011.0,numberOfObservances,48.0
+33671,Mass Effect 2,X360,2010.0,numberOfObservances,56.0
+33672,Mass Effect 2,PS3,2011.0,numberOfObservances,56.0
+33673,Mass Effect 2,PC,2010.0,numberOfObservances,56.0
+33674,Borderlands,X360,2009.0,numberOfObservances,146.0
+33675,Borderlands,PS3,2009.0,numberOfObservances,146.0
+33676,Borderlands,PC,2009.0,numberOfObservances,146.0
+33677,EVE Online,PC,2003.0,numberOfObservances,21.0
+33678,DC Universe Online,PS3,2011.0,numberOfObservances,154.0
+33679,DC Universe Online,PC,2011.0,numberOfObservances,154.0
+33680,RIFT,PC,2011.0,numberOfObservances,75.0
+33681,Darksiders II,PS3,2012.0,numberOfObservances,67.0
+33682,Darksiders II,X360,2012.0,numberOfObservances,67.0
+33683,Darksiders II,PS4,2015.0,numberOfObservances,67.0
+33684,Darksiders II,PC,2012.0,numberOfObservances,67.0
+33685,Darksiders II,WiiU,2012.0,numberOfObservances,67.0
+33686,Darksiders II,XOne,2015.0,numberOfObservances,67.0
+33687,Anno 2070,PC,2011.0,numberOfObservances,55.0
+33688,Chessmaster,PS2,2003.0,numberOfObservances,1.0
+33689,Chessmaster,XB,2004.0,numberOfObservances,1.0
+33690,Chessmaster,GBA,2002.0,numberOfObservances,1.0
+33691,Might & Magic Heroes VI,PC,2011.0,numberOfObservances,41.0
+33692,Trapped Dead,PC,2011.0,numberOfObservances,4.0
+33693,Torchlight,PC,2009.0,numberOfObservances,75.0
+33694,Titan Quest,PC,2006.0,numberOfObservances,58.0
+33695,Duke Nukem Forever,X360,2011.0,numberOfObservances,40.0
+33696,Duke Nukem Forever,PS3,2011.0,numberOfObservances,40.0
+33697,Duke Nukem Forever,PC,2011.0,numberOfObservances,40.0
+33698,Company of Heroes 2,PC,2013.0,numberOfObservances,87.0
+33699,Battlefield 2,PC,2005.0,numberOfObservances,14.0
+33700,Men of War,PC,2009.0,numberOfObservances,12.0
+33701,Full Spectrum Warrior,XB,2004.0,numberOfObservances,2.0
+33702,Full Spectrum Warrior,PS2,2005.0,numberOfObservances,2.0
+33703,DiRT Rally,PS4,2016.0,numberOfObservances,18.0
+33704,DiRT Rally,XOne,2016.0,numberOfObservances,18.0
+33705,DiRT Rally,PC,2016.0,numberOfObservances,18.0
+33706,Defiance,X360,2013.0,numberOfObservances,93.0
+33707,Defiance,PS3,2013.0,numberOfObservances,93.0
+33708,Defiance,PC,2013.0,numberOfObservances,93.0
+33709,Tropico 5,PS4,2015.0,numberOfObservances,33.0
+33710,Tropico 5,PC,2014.0,numberOfObservances,33.0
+33711,Tropico 5,X360,2014.0,numberOfObservances,33.0
+33712,Football Manager 2013,PC,2012.0,numberOfObservances,104.0
+33713,Two Worlds II,X360,2011.0,numberOfObservances,29.0
+33714,Two Worlds II,PS3,2011.0,numberOfObservances,29.0
+33715,Two Worlds II,PC,2011.0,numberOfObservances,29.0
+33716,LEGO The Hobbit,PS4,2014.0,numberOfObservances,11.0
+33717,LEGO The Hobbit,PS3,2014.0,numberOfObservances,11.0
+33718,LEGO The Hobbit,X360,2014.0,numberOfObservances,11.0
+33719,LEGO The Hobbit,XOne,2014.0,numberOfObservances,11.0
+33720,LEGO The Hobbit,3DS,2014.0,numberOfObservances,11.0
+33721,LEGO The Hobbit,WiiU,2014.0,numberOfObservances,11.0
+33722,LEGO The Hobbit,PSV,2014.0,numberOfObservances,11.0
+33723,LEGO The Hobbit,PC,2014.0,numberOfObservances,11.0
+33724,LEGO Jurassic World,PS4,2015.0,numberOfObservances,7.0
+33725,LEGO Jurassic World,X360,2015.0,numberOfObservances,7.0
+33726,LEGO Jurassic World,PS3,2015.0,numberOfObservances,7.0
+33727,LEGO Jurassic World,XOne,2015.0,numberOfObservances,7.0
+33728,LEGO Jurassic World,3DS,2015.0,numberOfObservances,7.0
+33729,LEGO Jurassic World,WiiU,2015.0,numberOfObservances,7.0
+33730,LEGO Jurassic World,PSV,2015.0,numberOfObservances,7.0
+33731,LEGO Jurassic World,PC,2015.0,numberOfObservances,7.0
+33732,BioShock 2,X360,2010.0,numberOfObservances,66.0
+33733,BioShock 2,PS3,2010.0,numberOfObservances,66.0
+33734,BioShock 2,PC,,numberOfObservances,66.0
+33735,Homeworld Remastered Collection,PC,,numberOfObservances,34.0
+33736,Dead Space 2,X360,2011.0,numberOfObservances,27.0
+33737,Dead Space 2,PS3,2011.0,numberOfObservances,27.0
+33738,Dead Space 2,PC,2011.0,numberOfObservances,27.0
+33739,Crysis,PC,2007.0,numberOfObservances,55.0
+33740,Prey,X360,2006.0,numberOfObservances,4.0
+33741,Prey,PC,2006.0,numberOfObservances,4.0
+33742,F.E.A.R. 3,PS3,2011.0,numberOfObservances,53.0
+33743,F.E.A.R. 3,X360,2011.0,numberOfObservances,53.0
+33744,F.E.A.R. 3,PC,2011.0,numberOfObservances,53.0
+33745,F.E.A.R. Perseus Mandate,PC,2007.0,numberOfObservances,7.0
+33746,Fable III,X360,2010.0,numberOfObservances,17.0
+33747,Fable III,PC,2011.0,numberOfObservances,17.0
+33748,Football Manager 2011,PC,2010.0,numberOfObservances,31.0
+33749,Stronghold Kingdoms,PC,2011.0,numberOfObservances,47.0
+33750,Enclave,XB,2002.0,numberOfObservances,30.0
+33751,Football Manager 2012,PC,2011.0,numberOfObservances,79.0
+33752,Football Manager 2012,PSP,2011.0,numberOfObservances,79.0
+33753,Football Manager 2015,PC,2014.0,numberOfObservances,77.0
+33754,F1 2012,PS3,2012.0,numberOfObservances,19.0
+33755,F1 2012,X360,2012.0,numberOfObservances,19.0
+33756,F1 2012,PC,2012.0,numberOfObservances,19.0
+33757,Homefront,X360,2011.0,numberOfObservances,43.0
+33758,Homefront,PS3,2011.0,numberOfObservances,43.0
+33759,Homefront,PC,2011.0,numberOfObservances,43.0
+33760,Football Manager 2014,PC,2013.0,numberOfObservances,78.0
+33761,Football Manager 2014,PSV,2013.0,numberOfObservances,78.0
+33762,Football Manager 2016,PC,2015.0,numberOfObservances,27.0
+33763,Test Drive Unlimited 2,X360,,numberOfObservances,24.0
+33764,Test Drive Unlimited 2,PS3,,numberOfObservances,24.0
+33765,Test Drive Unlimited 2,PC,,numberOfObservances,24.0
+33766,Mortal Kombat X,PS4,2015.0,numberOfObservances,38.0
+33767,Mortal Kombat X,XOne,2015.0,numberOfObservances,38.0
+33768,Mortal Kombat X,PC,2015.0,numberOfObservances,38.0
+33769,Max Payne 3,PS3,2012.0,numberOfObservances,93.0
+33770,Max Payne 3,X360,2012.0,numberOfObservances,93.0
+33771,Max Payne 3,PC,2012.0,numberOfObservances,93.0
+33772,Shovel Knight,3DS,2015.0,numberOfObservances,14.0
+33773,Shovel Knight,WiiU,2015.0,numberOfObservances,14.0
+33774,Shovel Knight,PS4,2015.0,numberOfObservances,14.0
+33775,The Last Remnant,X360,2008.0,numberOfObservances,27.0
+33776,The Last Remnant,PC,2009.0,numberOfObservances,27.0
+33777,The Evil Within,PS4,2014.0,numberOfObservances,16.0
+33778,The Evil Within,PS3,2014.0,numberOfObservances,16.0
+33779,The Evil Within,XOne,2014.0,numberOfObservances,16.0
+33780,The Evil Within,X360,2014.0,numberOfObservances,16.0
+33781,The Evil Within,PC,2014.0,numberOfObservances,16.0
+33782,Rayman Legends,PS4,2014.0,numberOfObservances,14.0
+33783,Rayman Legends,WiiU,2013.0,numberOfObservances,14.0
+33784,Rayman Legends,PS3,2013.0,numberOfObservances,14.0
+33785,Rayman Legends,X360,2013.0,numberOfObservances,14.0
+33786,Rayman Legends,XOne,2014.0,numberOfObservances,14.0
+33787,Rayman Legends,PSV,2014.0,numberOfObservances,14.0
+33788,Guild Wars,PC,2005.0,numberOfObservances,8.0
+33789,Evolve,PS4,2015.0,numberOfObservances,34.0
+33790,Evolve,XOne,2015.0,numberOfObservances,34.0
+33791,Evolve,PC,2015.0,numberOfObservances,34.0
+33792,Far Cry,PC,2004.0,numberOfObservances,26.0
+33793,Risen,X360,2009.0,numberOfObservances,13.0
+33794,Risen,PC,2009.0,numberOfObservances,13.0
+33795,FlatOut 2,PS2,2006.0,numberOfObservances,14.0
+33796,FlatOut 2,XB,2006.0,numberOfObservances,14.0
+33797,Farming Simulator 2011,PC,2010.0,numberOfObservances,8.0
+33798,NBA 2K15,PS4,2014.0,numberOfObservances,20.0
+33799,NBA 2K15,XOne,2014.0,numberOfObservances,20.0
+33800,NBA 2K15,X360,2014.0,numberOfObservances,20.0
+33801,NBA 2K15,PS3,2014.0,numberOfObservances,20.0
+33802,NASCAR '14,X360,2014.0,numberOfObservances,3.0
+33803,NASCAR '14,PS3,2014.0,numberOfObservances,3.0
+33804,Mortal Kombat Kollection,PS2,2008.0,numberOfObservances,17.0
+33805,Legendary,X360,2008.0,numberOfObservances,10.0
+33806,Legendary,PS3,2008.0,numberOfObservances,10.0
+33807,Legendary,PC,2008.0,numberOfObservances,10.0
+33808,Supreme Commander 2,X360,2010.0,numberOfObservances,52.0
+33809,Supreme Commander 2,PC,2010.0,numberOfObservances,52.0
+33810,Supreme Commander,X360,2008.0,numberOfObservances,18.0
+33811,Supreme Commander,PC,2007.0,numberOfObservances,18.0
+33812,Football Manager 2010,PC,2009.0,numberOfObservances,35.0
+33813,The Darkness II,X360,2012.0,numberOfObservances,35.0
+33814,The Darkness II,PS3,2012.0,numberOfObservances,35.0
+33815,The Darkness II,PC,2012.0,numberOfObservances,35.0
+33816,Grand Theft Auto III,PS2,2001.0,numberOfObservances,34.0
+33817,Grand Theft Auto III,PC,2002.0,numberOfObservances,34.0
+33818,Assassin's Creed,X360,2007.0,numberOfObservances,36.0
+33819,Assassin's Creed,PS3,2007.0,numberOfObservances,36.0
+33820,Assassin's Creed,PC,2008.0,numberOfObservances,36.0
+33821,Majesty 2 Collection,PC,2011.0,numberOfObservances,5.0
+33822,Wasteland 2,PS4,2015.0,numberOfObservances,22.0
+33823,Wasteland 2,PC,2015.0,numberOfObservances,22.0
+33824,Wasteland 2,XOne,2015.0,numberOfObservances,22.0
+33825,Gothic 3,PC,2006.0,numberOfObservances,10.0
+33826,Dead Rising 2,X360,2010.0,numberOfObservances,21.0
+33827,Dead Rising 2,PS3,2010.0,numberOfObservances,21.0
+33828,Dead Rising 2,PC,2010.0,numberOfObservances,21.0
+33829,Dead Rising 2,PS4,2016.0,numberOfObservances,21.0
+33830,Dead Rising 2,XOne,2016.0,numberOfObservances,21.0
+33831,Rogue Warrior,PS3,2009.0,numberOfObservances,1.0
+33832,Rogue Warrior,X360,2009.0,numberOfObservances,1.0
+33833,Worms Armageddon,PS,1999.0,numberOfObservances,21.0
+33834,Worms Armageddon,N64,1999.0,numberOfObservances,21.0
+33835,Farming Simulator 2013,PC,2012.0,numberOfObservances,32.0
+33836,Farming Simulator 2013,X360,2013.0,numberOfObservances,32.0
+33837,Farming Simulator 2013,PS3,2013.0,numberOfObservances,32.0
+33838,GRID Autosport,PS3,2014.0,numberOfObservances,29.0
+33839,GRID Autosport,X360,2014.0,numberOfObservances,29.0
+33840,GRID Autosport,PC,2014.0,numberOfObservances,29.0
+33841,Red Faction,PS2,2001.0,numberOfObservances,8.0
+33842,Overlord II,X360,2009.0,numberOfObservances,29.0
+33843,Overlord II,PS3,2009.0,numberOfObservances,29.0
+33844,Overlord II,PC,2009.0,numberOfObservances,29.0
+33845,Overlord,X360,2007.0,numberOfObservances,22.0
+33846,Overlord,PC,2007.0,numberOfObservances,22.0
+33847,Goodbye Deponia,PC,2013.0,numberOfObservances,7.0
+33848,Deponia,PC,2012.0,numberOfObservances,26.0
+33849,Sid Meier's Pirates!,PSP,2007.0,numberOfObservances,22.0
+33850,Sid Meier's Pirates!,Wii,2010.0,numberOfObservances,22.0
+33851,Sid Meier's Pirates!,XB,2005.0,numberOfObservances,22.0
+33852,Dragon's Lair,DS,2010.0,numberOfObservances,4.0
+33853,Star Trek Online,PC,2010.0,numberOfObservances,50.0
+33854,Child of Light,PSV,2014.0,numberOfObservances,22.0
+33855,Child of Light,PS4,2014.0,numberOfObservances,22.0
+33856,Hearts of Iron III,PC,2009.0,numberOfObservances,21.0
+33857,Sengoku,PC,2011.0,numberOfObservances,5.0
+33858,Pro Evolution Soccer 2015,PS4,2014.0,numberOfObservances,12.0
+33859,Pro Evolution Soccer 2015,PS3,2014.0,numberOfObservances,12.0
+33860,Pro Evolution Soccer 2015,XOne,2014.0,numberOfObservances,12.0
+33861,Pro Evolution Soccer 2015,X360,2014.0,numberOfObservances,12.0
+33862,Pro Evolution Soccer 2015,PC,2014.0,numberOfObservances,12.0
+33863,Street Fighter IV,PS3,2009.0,numberOfObservances,9.0
+33864,Street Fighter IV,X360,2009.0,numberOfObservances,9.0
+33865,Street Fighter IV,PC,,numberOfObservances,9.0
+33866,Sid Meier's Railroads!,PC,2006.0,numberOfObservances,14.0
+33867,Bejeweled 2 Deluxe,PC,2006.0,numberOfObservances,3.0
+33868,Dead Rising 3,XOne,2013.0,numberOfObservances,14.0
+33869,Just Cause 3,PS4,2015.0,numberOfObservances,15.0
+33870,Just Cause 3,XOne,2015.0,numberOfObservances,15.0
+33871,Just Cause 3,PC,2015.0,numberOfObservances,15.0
+33872,X Rebirth,PC,2013.0,numberOfObservances,7.0
+33873,Way of the Samurai 4,PS3,2011.0,numberOfObservances,3.0
+33874,F1 2014,PS3,2014.0,numberOfObservances,8.0
+33875,F1 2014,X360,2014.0,numberOfObservances,8.0
+33876,F1 2014,PC,2014.0,numberOfObservances,8.0
+33877,Sniper Elite,PS2,2005.0,numberOfObservances,10.0
+33878,Sniper Elite,Wii,2010.0,numberOfObservances,10.0
+33879,Sniper Elite,XB,2005.0,numberOfObservances,10.0
+33880,Sniper Elite,PC,2005.0,numberOfObservances,10.0
+33881,Tom Clancy's EndWar,X360,2008.0,numberOfObservances,3.0
+33882,Tom Clancy's EndWar,PS3,2008.0,numberOfObservances,3.0
+33883,Tom Clancy's EndWar,PSP,2008.0,numberOfObservances,3.0
+33884,Tom Clancy's EndWar,DS,2008.0,numberOfObservances,3.0
+33885,Tom Clancy's EndWar,PC,2009.0,numberOfObservances,3.0
+33886,Fallout 3,X360,2008.0,numberOfObservances,38.0
+33887,Fallout 3,PS3,2008.0,numberOfObservances,38.0
+33888,Fallout 3,PC,2008.0,numberOfObservances,38.0
+33889,Evil Genius,PC,2004.0,numberOfObservances,12.0
+33890,Pillars of Eternity,PC,2014.0,numberOfObservances,41.0
+33891,Tales of Zestiria,PS3,2015.0,numberOfObservances,7.0
+33892,Tales of Zestiria,PS4,2015.0,numberOfObservances,7.0
+33893,Trials Fusion,PS4,2014.0,numberOfObservances,7.0
+33894,Trials Fusion,XOne,2014.0,numberOfObservances,7.0
+33895,Trials Fusion,PC,2014.0,numberOfObservances,7.0
+33896,Bulletstorm,X360,2011.0,numberOfObservances,23.0
+33897,Bulletstorm,PS3,2011.0,numberOfObservances,23.0
+33898,Bulletstorm,PC,2011.0,numberOfObservances,23.0
+33899,NBA 2K16,PS4,2015.0,numberOfObservances,12.0
+33900,NBA 2K16,XOne,2015.0,numberOfObservances,12.0
+33901,NBA 2K16,X360,2015.0,numberOfObservances,12.0
+33902,NBA 2K16,PS3,2015.0,numberOfObservances,12.0
+33903,NBA 2K16,PC,2015.0,numberOfObservances,12.0
+33904,Rocksmith 2014,PS3,2013.0,numberOfObservances,25.0
+33905,Rocksmith 2014,X360,2013.0,numberOfObservances,25.0
+33906,Rocksmith 2014,PC,2013.0,numberOfObservances,25.0
+33907,Rocksmith 2014,PS4,2014.0,numberOfObservances,25.0
+33908,Rocksmith 2014,XOne,2014.0,numberOfObservances,25.0
+33909,Grand Theft Auto,PS,1997.0,numberOfObservances,10.0
+33910,Grand Theft Auto,GBA,2004.0,numberOfObservances,10.0
+33911,Mini Ninjas,Wii,2009.0,numberOfObservances,2.0
+33912,Mini Ninjas,PS3,2009.0,numberOfObservances,2.0
+33913,Mini Ninjas,DS,2009.0,numberOfObservances,2.0
+33914,Mini Ninjas,X360,2009.0,numberOfObservances,2.0
+33915,Mini Ninjas,PC,2009.0,numberOfObservances,2.0
+33916,Ikaruga,GC,2003.0,numberOfObservances,2.0
+33917,WWE 2K15,PS4,2014.0,numberOfObservances,5.0
+33918,WWE 2K15,PS3,2014.0,numberOfObservances,5.0
+33919,WWE 2K15,X360,2014.0,numberOfObservances,5.0
+33920,WWE 2K15,XOne,2014.0,numberOfObservances,5.0
+33921,Dungeon Siege III,PS3,2011.0,numberOfObservances,31.0
+33922,Dungeon Siege III,X360,2011.0,numberOfObservances,31.0
+33923,Dungeon Siege III,PC,2011.0,numberOfObservances,31.0
+33924,15 Days,PC,2009.0,numberOfObservances,1.0
+33925,The Secret World,PC,2012.0,numberOfObservances,16.0
+33926,Alpha Protocol,PS3,2010.0,numberOfObservances,15.0
+33927,Alpha Protocol,X360,2010.0,numberOfObservances,15.0
+33928,Alpha Protocol,PC,2010.0,numberOfObservances,15.0
+33929,Mount & Blade,PC,2008.0,numberOfObservances,29.0
+33930,Syberia,DS,2008.0,numberOfObservances,7.0
+33931,Syberia,XB,2003.0,numberOfObservances,7.0
+33932,Syberia,PC,2002.0,numberOfObservances,7.0
+33933,Winning Post 8 2015,PSV,2015.0,numberOfObservances,1.0
+33934,Winning Post 8 2015,PS3,2015.0,numberOfObservances,1.0
+33935,Zombie Army Trilogy,PS4,2015.0,numberOfObservances,5.0
+33936,Zombie Army Trilogy,XOne,2015.0,numberOfObservances,5.0
+33937,Airline Tycoon 2,PC,2011.0,numberOfObservances,5.0
+33938,Cities XL 2012,PC,2011.0,numberOfObservances,11.0
+33939,Remember Me,PS3,2013.0,numberOfObservances,25.0
+33940,Remember Me,X360,2013.0,numberOfObservances,25.0
+33941,Remember Me,PC,2013.0,numberOfObservances,25.0
+33942,Quake II,PS,1998.0,numberOfObservances,4.0
+33943,Quake II,N64,1999.0,numberOfObservances,4.0
+33944,Tomb Raider II,PS,1997.0,numberOfObservances,4.0
+33945,Tomb Raider II,PC,1997.0,numberOfObservances,4.0
+33946,X-Blades,X360,2009.0,numberOfObservances,10.0
+33947,X-Blades,PS3,2009.0,numberOfObservances,10.0
+33948,Sacred Gold,PC,2005.0,numberOfObservances,6.0
+33949,Call of Duty 2,X360,2005.0,numberOfObservances,8.0
+33950,Call of Duty 2,PC,2005.0,numberOfObservances,8.0
+33951,F1 2013,PS3,2013.0,numberOfObservances,12.0
+33952,F1 2013,X360,2013.0,numberOfObservances,12.0
+33953,Devil May Cry 4,PS3,2008.0,numberOfObservances,18.0
+33954,Devil May Cry 4,X360,2008.0,numberOfObservances,18.0
+33955,Devil May Cry 4,PS4,2015.0,numberOfObservances,18.0
+33956,Devil May Cry 4,PC,2008.0,numberOfObservances,18.0
+33957,Binary Domain,PS3,2012.0,numberOfObservances,7.0
+33958,Binary Domain,X360,2012.0,numberOfObservances,7.0
+33959,NBA 2K14,X360,2013.0,numberOfObservances,16.0
+33960,NBA 2K14,PS3,2013.0,numberOfObservances,16.0
+33961,NBA 2K14,PS4,2013.0,numberOfObservances,16.0
+33962,NBA 2K14,XOne,2013.0,numberOfObservances,16.0
+33963,Lost Planet 3,PS3,2013.0,numberOfObservances,14.0
+33964,Lost Planet 3,X360,2013.0,numberOfObservances,14.0
+33965,Lost Planet 3,PC,2013.0,numberOfObservances,14.0
+33966,Assetto Corsa,PS4,2016.0,numberOfObservances,18.0
+33967,Assetto Corsa,XOne,2016.0,numberOfObservances,18.0
+33968,Rocksmith,PS3,2011.0,numberOfObservances,9.0
+33969,Rocksmith,X360,2011.0,numberOfObservances,9.0
+33970,Rocksmith,PC,,numberOfObservances,9.0
+33971,Cities in Motion,PC,2011.0,numberOfObservances,11.0
+33972,The Cursed Crusade,PS3,2011.0,numberOfObservances,4.0
+33973,The Cursed Crusade,X360,2011.0,numberOfObservances,4.0
+33974,The Cursed Crusade,PC,2011.0,numberOfObservances,4.0
+33975,Alone in the Dark,X360,2008.0,numberOfObservances,1.0
+33976,Alone in the Dark,Wii,2008.0,numberOfObservances,1.0
+33977,Alone in the Dark,PS2,2008.0,numberOfObservances,1.0
+33978,Alone in the Dark,PC,2008.0,numberOfObservances,1.0
+33979,Lost Planet 2,PS3,2010.0,numberOfObservances,8.0
+33980,Lost Planet 2,X360,2010.0,numberOfObservances,8.0
+33981,Lost Planet 2,PC,2010.0,numberOfObservances,8.0
+33982,Bound By Flame,PS4,2014.0,numberOfObservances,7.0
+33983,Prince of Persia,PS3,2008.0,numberOfObservances,5.0
+33984,Prince of Persia,X360,2008.0,numberOfObservances,5.0
+33985,Killer is Dead,PS3,2013.0,numberOfObservances,10.0
+33986,Killer is Dead,X360,2013.0,numberOfObservances,10.0
+33987,NBA 2K9,X360,2008.0,numberOfObservances,7.0
+33988,NBA 2K9,PS3,2008.0,numberOfObservances,7.0
+33989,NBA 2K9,PS2,2008.0,numberOfObservances,7.0
+33990,World of Zoo,DS,2009.0,numberOfObservances,2.0
+33991,World of Zoo,Wii,2009.0,numberOfObservances,2.0
+33992,World of Zoo,PC,2009.0,numberOfObservances,2.0
+33993,Descent,PS,1996.0,numberOfObservances,3.0
+33994,Sonic CD,SCD,1993.0,numberOfObservances,7.0
+33995,Tom Clancy's Splinter Cell,XB,2002.0,numberOfObservances,7.0
+33996,Tom Clancy's Splinter Cell,PS2,2003.0,numberOfObservances,7.0
+33997,Tom Clancy's Splinter Cell,GC,2003.0,numberOfObservances,7.0
+33998,Tom Clancy's Splinter Cell,GBA,2003.0,numberOfObservances,7.0
+33999,Take On Helicopters,PC,2011.0,numberOfObservances,7.0
+34000,Railroad Tycoon 3,PC,2003.0,numberOfObservances,5.0
+34001,DarkStar One,PC,2006.0,numberOfObservances,3.0
+34002,Rayman Origins,PS3,2011.0,numberOfObservances,10.0
+34003,Rayman Origins,X360,2011.0,numberOfObservances,10.0
+34004,Rayman Origins,Wii,2011.0,numberOfObservances,10.0
+34005,Rayman Origins,PSV,2012.0,numberOfObservances,10.0
+34006,Rayman Origins,3DS,2012.0,numberOfObservances,10.0
+34007,Rayman Origins,PC,2012.0,numberOfObservances,10.0
+34008,Order of War,PC,2009.0,numberOfObservances,15.0
+34009,War for the Overworld,PC,2015.0,numberOfObservances,11.0
+34010,Assassin's Creed Syndicate,PS4,2015.0,numberOfObservances,3.0
+34011,Assassin's Creed Syndicate,XOne,2015.0,numberOfObservances,3.0
+34012,Assassin's Creed Syndicate,PC,2015.0,numberOfObservances,3.0
+34013,The Bard's Tale,PS2,2004.0,numberOfObservances,6.0
+34014,The Bard's Tale,XB,2004.0,numberOfObservances,6.0
+34015,Demigod,PC,2009.0,numberOfObservances,11.0
+34016,F1 2010,PS3,2010.0,numberOfObservances,6.0
+34017,F1 2010,X360,2010.0,numberOfObservances,6.0
+34018,F1 2010,PC,2010.0,numberOfObservances,6.0
+34019,Mechanic Escape,PS3,2012.0,numberOfObservances,6.0
+34020,The Inner World,PC,2013.0,numberOfObservances,1.0
+34021,Age of Empires Online,PC,2011.0,numberOfObservances,8.0
+34022,Act of Aggression,PC,2015.0,numberOfObservances,4.0
+34023,Port Royale 3,PS3,,numberOfObservances,11.0
+34024,Port Royale 3,X360,,numberOfObservances,11.0
+34025,F1 2015,PS4,2015.0,numberOfObservances,6.0
+34026,F1 2015,XOne,2015.0,numberOfObservances,6.0
+34027,F1 2015,PC,2015.0,numberOfObservances,6.0
+34028,Stronghold Legends,PC,2006.0,numberOfObservances,6.0
+34029,Dragon Age II,X360,2011.0,numberOfObservances,5.0
+34030,Dragon Age II,PS3,2011.0,numberOfObservances,5.0
+34031,Dragon Age II,PC,2011.0,numberOfObservances,5.0
+34032,F1 2011,PS3,2011.0,numberOfObservances,5.0
+34033,F1 2011,X360,2011.0,numberOfObservances,5.0
+34034,F1 2011,PC,2011.0,numberOfObservances,5.0
+34035,F1 2011,3DS,2011.0,numberOfObservances,5.0
+34036,F1 2011,PSV,2011.0,numberOfObservances,5.0
+34037,Quake 4,X360,2005.0,numberOfObservances,4.0
+34038,Quake 4,PC,2005.0,numberOfObservances,4.0
+34039,Sacred 3,PS3,2014.0,numberOfObservances,6.0
+34040,Sacred 3,X360,2014.0,numberOfObservances,6.0
+34041,Sacred 3,PC,2014.0,numberOfObservances,6.0
+34042,Front Mission Evolved,PS3,2010.0,numberOfObservances,7.0
+34043,Front Mission Evolved,X360,2010.0,numberOfObservances,7.0
+34044,Front Mission Evolved,PC,2010.0,numberOfObservances,7.0
+34045,Quake,N64,1998.0,numberOfObservances,8.0
+34046,DiRT,PS3,2007.0,numberOfObservances,2.0
+34047,DiRT,X360,2007.0,numberOfObservances,2.0
+34048,DiRT,PC,2007.0,numberOfObservances,2.0
+34049,Fairy Fencer F,PS3,2013.0,numberOfObservances,4.0
+34050,Rugby League Team Manager 2015,PC,2015.0,numberOfObservances,2.0
+34051,MLB Front Office Manager,PS3,2009.0,numberOfObservances,3.0
+34052,MLB Front Office Manager,X360,2009.0,numberOfObservances,3.0
+34053,Guilty Gear X2 #Reload,XB,2004.0,numberOfObservances,2.0
+34054,Euro Truck Simulator,PC,2008.0,numberOfObservances,8.0
+34055,Pro Evolution Soccer 2016,PS4,2015.0,numberOfObservances,3.0
+34056,Pro Evolution Soccer 2016,PS3,2015.0,numberOfObservances,3.0
+34057,Pro Evolution Soccer 2016,XOne,2015.0,numberOfObservances,3.0
+34058,Pro Evolution Soccer 2016,X360,2015.0,numberOfObservances,3.0
+34059,Pro Evolution Soccer 2016,PC,2015.0,numberOfObservances,3.0
+34060,Emergency 2012,PC,2010.0,numberOfObservances,1.0
+34061,Emergency 2012,DS,2010.0,numberOfObservances,1.0
+34062,Cities XL 2011,PC,2010.0,numberOfObservances,7.0
+34063,Terminator Salvation,PS3,2009.0,numberOfObservances,1.0
+34064,Terminator Salvation,X360,2009.0,numberOfObservances,1.0
+34065,World in Conflict,PC,2007.0,numberOfObservances,2.0
+34066,Unreal Tournament 2004,PC,2004.0,numberOfObservances,11.0
+34067,Max Payne,PS2,2001.0,numberOfObservances,16.0
+34068,Max Payne,XB,2001.0,numberOfObservances,16.0
+34069,Max Payne,GBA,2003.0,numberOfObservances,16.0
+34070,Max Payne,PC,2001.0,numberOfObservances,16.0
+34071,Platypus,PSP,2006.0,numberOfObservances,2.0
+34072,Knights of Honor,PC,2004.0,numberOfObservances,6.0
+34073,Virtua Tennis 4,PS3,2011.0,numberOfObservances,2.0
+34074,Virtua Tennis 4,X360,2011.0,numberOfObservances,2.0
+34075,Virtua Tennis 4,Wii,2011.0,numberOfObservances,2.0
+34076,Virtua Tennis 4,PC,2011.0,numberOfObservances,2.0
+34077,NBA 2K13,X360,2012.0,numberOfObservances,6.0
+34078,NBA 2K13,PS3,2012.0,numberOfObservances,6.0
+34079,NBA 2K13,Wii,2012.0,numberOfObservances,6.0
+34080,NBA 2K13,WiiU,2012.0,numberOfObservances,6.0
+34081,NBA 2K13,PC,2012.0,numberOfObservances,6.0
+34082,F1 Race Stars,PS3,2012.0,numberOfObservances,4.0
+34083,F1 Race Stars,X360,2012.0,numberOfObservances,4.0
+34084,F1 Race Stars,PC,2012.0,numberOfObservances,4.0
+34085,Darkspore,PC,2011.0,numberOfObservances,6.0
+34086,Silent Hunter III,PC,2005.0,numberOfObservances,6.0
+34087,Grand Theft Auto 2,PS,1998.0,numberOfObservances,6.0
+34088,Mafia,PS2,2004.0,numberOfObservances,4.0
+34089,Mafia,XB,2004.0,numberOfObservances,4.0
+34090,Mafia,PC,2002.0,numberOfObservances,4.0
+34091,Blades of Time,X360,2012.0,numberOfObservances,6.0
+34092,Blades of Time,PS3,2012.0,numberOfObservances,6.0
+34093,The 7th Guest,PC,1992.0,numberOfObservances,2.0
+34094,Dungeons 2,PS4,2016.0,numberOfObservances,6.0
+34095,Hotel Giant 2,PC,2008.0,numberOfObservances,1.0
+34096,East India Company,PC,2009.0,numberOfObservances,1.0
+34097,Crysis 2,X360,2011.0,numberOfObservances,7.0
+34098,Crysis 2,PS3,2011.0,numberOfObservances,7.0
+34099,Crysis 2,PC,2011.0,numberOfObservances,7.0
+34100,Contrast,PC,2013.0,numberOfObservances,2.0
+34101,TimeShift,X360,2007.0,numberOfObservances,3.0
+34102,TimeShift,PS3,2007.0,numberOfObservances,3.0
+34103,TimeShift,PC,2007.0,numberOfObservances,3.0
+34104,Tomb Raider Chronicles,PS,1999.0,numberOfObservances,1.0
+34105,MDK,PS,1997.0,numberOfObservances,1.0
+34106,The Void,PC,2008.0,numberOfObservances,4.0
+34107,Arx Fatalis,XB,2003.0,numberOfObservances,5.0
+34108,Dark Void,PS3,2010.0,numberOfObservances,1.0
+34109,Dark Void,X360,2010.0,numberOfObservances,1.0
+34110,Dark Void,PC,2010.0,numberOfObservances,1.0
+34111,Ship Simulator Extremes,PC,2010.0,numberOfObservances,3.0
+34112,Lost Horizon,PC,2010.0,numberOfObservances,3.0
+34113,The Next BIG Thing,PC,2011.0,numberOfObservances,2.0
+34114,Enemy Front,PS3,2014.0,numberOfObservances,5.0
+34115,Enemy Front,X360,2014.0,numberOfObservances,5.0
+34116,Street Fighter X Tekken,PS3,2012.0,numberOfObservances,4.0
+34117,Street Fighter X Tekken,X360,2012.0,numberOfObservances,4.0
+34118,Street Fighter X Tekken,PSV,2012.0,numberOfObservances,4.0
+34119,Street Fighter X Tekken,PC,2012.0,numberOfObservances,4.0
+34120,Wolfenstein 3D,GBA,2002.0,numberOfObservances,3.0
+34121,FlatOut,PS2,2004.0,numberOfObservances,8.0
+34122,FlatOut,XB,2004.0,numberOfObservances,8.0
+34123,Stormrise,PS3,2009.0,numberOfObservances,4.0
+34124,Stormrise,X360,2009.0,numberOfObservances,4.0
+34125,Stormrise,PC,2009.0,numberOfObservances,4.0
+34126,Anno 2205,PC,2015.0,numberOfObservances,1.0
+34127,Hospital Tycoon,PC,2007.0,numberOfObservances,5.0
+34128,Crazy Taxi,PS2,2001.0,numberOfObservances,1.0
+34129,Crazy Taxi,DC,2000.0,numberOfObservances,1.0
+34130,Crazy Taxi,GC,2001.0,numberOfObservances,1.0
+34131,Section 8,X360,2009.0,numberOfObservances,3.0
+34132,Section 8,PC,2009.0,numberOfObservances,3.0
+34133,The Golf Club,PS4,2014.0,numberOfObservances,2.0
+34134,The Golf Club,XOne,2014.0,numberOfObservances,2.0
+34135,Dollar Dash,PS2,2005.0,numberOfObservances,1.0
+34136,Shadow Man,N64,1999.0,numberOfObservances,1.0
+34137,Shadow Man,PS,1998.0,numberOfObservances,1.0
+34138,Stubbs the Zombie in Rebel Without a Pulse,XB,2005.0,numberOfObservances,2.0
+34139,Red Faction II,PS2,2002.0,numberOfObservances,3.0
+34140,Red Faction II,XB,2003.0,numberOfObservances,3.0
+34141,Red Faction II,GC,2003.0,numberOfObservances,3.0
+34142,Beyond Good & Evil,PS2,2003.0,numberOfObservances,3.0
+34143,Beyond Good & Evil,XB,2003.0,numberOfObservances,3.0
+34144,Beyond Good & Evil,GC,2003.0,numberOfObservances,3.0
+34145,Guild Wars Trilogy,PC,2005.0,numberOfObservances,1.0
+34146,Puzzle Chronicles,PSP,2010.0,numberOfObservances,1.0
+34147,Velvet Assassin,X360,2009.0,numberOfObservances,4.0
+34148,The Night of the Rabbit,PC,2013.0,numberOfObservances,2.0
+34149,Gun Metal,XB,2002.0,numberOfObservances,2.0
+34150,Lara Croft and the Temple of Osiris,PS4,2014.0,numberOfObservances,4.0
+34151,Lara Croft and the Temple of Osiris,PC,2014.0,numberOfObservances,4.0
+34152,MX vs. ATV Reflex,PS3,2009.0,numberOfObservances,7.0
+34153,MX vs. ATV Reflex,X360,2009.0,numberOfObservances,7.0
+34154,MX vs. ATV Reflex,PSP,2009.0,numberOfObservances,7.0
+34155,MX vs. ATV Reflex,DS,2009.0,numberOfObservances,7.0
+34156,Praetorians,PC,2003.0,numberOfObservances,2.0
+34157,GTR Evolution,PC,2008.0,numberOfObservances,3.0
+34158,Clockwork Empires,PC,,numberOfObservances,1.0
+34159,Shantae and the Pirate's Curse,3DS,2015.0,numberOfObservances,4.0
+34160,Damnation,PS3,2009.0,numberOfObservances,1.0
+34161,Damnation,X360,2009.0,numberOfObservances,1.0
+34162,MX vs. ATV Supercross Encore,PS4,2015.0,numberOfObservances,1.0
+34163,MX vs. ATV Supercross Encore,XOne,2015.0,numberOfObservances,1.0
+34164,Elven Legacy,PC,2009.0,numberOfObservances,3.0
+34165,Worms,PS3,2009.0,numberOfObservances,1.0
+34166,Worms,X360,2007.0,numberOfObservances,1.0
+34167,Obscure,PS2,2004.0,numberOfObservances,1.0
+34168,Obscure,XB,2004.0,numberOfObservances,1.0
+34169,Haunted House,Wii,2010.0,numberOfObservances,1.0
+34170,Republique,PS4,2016.0,numberOfObservances,2.0
+34171,Still Life,XB,2005.0,numberOfObservances,2.0
+34172,Crazy Machines,DS,2008.0,numberOfObservances,3.0
+34173,Crazy Machines,Wii,2010.0,numberOfObservances,3.0
+34174,Impossible Creatures,PC,2002.0,numberOfObservances,3.0
+34175,Monopoly,PC,1994.0,numberOfObservances,4.0
+34176,Monopoly,Wii,2008.0,numberOfObservances,4.0
+34177,Monopoly,PS,1997.0,numberOfObservances,4.0
+34178,Monopoly,X360,2008.0,numberOfObservances,4.0
+34179,Monopoly,PS2,2008.0,numberOfObservances,4.0
+34180,Monopoly,PS3,2008.0,numberOfObservances,4.0
+34181,Monopoly,DS,2010.0,numberOfObservances,4.0
+34182,Monopoly,N64,1999.0,numberOfObservances,4.0
+34183,Split/Second,PS3,2010.0,numberOfObservances,2.0
+34184,Split/Second,X360,2010.0,numberOfObservances,2.0
+34185,Split/Second,PSP,2010.0,numberOfObservances,2.0
+34186,Split/Second,PC,2010.0,numberOfObservances,2.0
+34187,RollerCoaster Tycoon,XB,2003.0,numberOfObservances,1.0
+34188,RollerCoaster Tycoon,PC,,numberOfObservances,1.0
+34189,Dawn of Discovery,PC,2009.0,numberOfObservances,2.0
+34190,Dawn of Discovery,Wii,2009.0,numberOfObservances,2.0
+34191,Dawn of Discovery,DS,2009.0,numberOfObservances,2.0
+34192,Ski Region Simulator,PC,2011.0,numberOfObservances,2.0
+34193,Call of Juarez,X360,2007.0,numberOfObservances,2.0
+34194,Call of Juarez,PC,2006.0,numberOfObservances,2.0
+34195,Gray Matter,PC,2011.0,numberOfObservances,2.0
+34196,Gray Matter,X360,2011.0,numberOfObservances,2.0
+34197,The Book of Unwritten Tales 2,PS4,2015.0,numberOfObservances,2.0
+34198,The Book of Unwritten Tales 2,WiiU,2016.0,numberOfObservances,2.0
+34199,Clive Barker's Jericho,X360,2007.0,numberOfObservances,2.0
+34200,Clive Barker's Jericho,PS3,2007.0,numberOfObservances,2.0
+34201,Clive Barker's Jericho,PC,2007.0,numberOfObservances,2.0
+34202,Post Mortem,PC,2003.0,numberOfObservances,1.0
+34203,Ford Racing 3,PS2,2004.0,numberOfObservances,1.0
+34204,Ford Racing 3,DS,2005.0,numberOfObservances,1.0
+34205,Ford Racing 3,XB,2004.0,numberOfObservances,1.0
+34206,Ford Racing 3,GBA,2005.0,numberOfObservances,1.0
+34207,Shattered Union,XB,2005.0,numberOfObservances,1.0
+34208,Port Royale 2,PC,2004.0,numberOfObservances,2.0
+34209,Blitzkrieg 2 Anthology,PC,2008.0,numberOfObservances,3.0
+34210,Rogue Trooper,PS2,2006.0,numberOfObservances,1.0
+34211,Rogue Trooper,XB,2006.0,numberOfObservances,1.0
+34212,Tom Clancy's Ghost Recon Advanced Warfighter,X360,2006.0,numberOfObservances,2.0
+34213,Tom Clancy's Ghost Recon Advanced Warfighter,XB,2006.0,numberOfObservances,2.0
+34214,Colin McRae Rally,PS,1998.0,numberOfObservances,2.0
+34215,Guilty Gear Isuka,PS2,2004.0,numberOfObservances,1.0
+34216,The Club,X360,2008.0,numberOfObservances,1.0
+34217,The Club,PS3,2008.0,numberOfObservances,1.0
+34218,Azure Striker Gunvolt,3DS,2016.0,numberOfObservances,1.0
+34219,Midnight Club II,PS2,2003.0,numberOfObservances,3.0
+34220,Midnight Club II,XB,2003.0,numberOfObservances,3.0
+34221,Pro Evolution Soccer 2014,PS3,2013.0,numberOfObservances,3.0
+34222,Pro Evolution Soccer 2014,X360,2013.0,numberOfObservances,3.0
+34223,Pro Evolution Soccer 2014,3DS,2013.0,numberOfObservances,3.0
+34224,Pro Evolution Soccer 2014,PSP,2013.0,numberOfObservances,3.0
+34225,Pro Evolution Soccer 2014,PC,2013.0,numberOfObservances,3.0
+34226,Darkstone,PS,2001.0,numberOfObservances,1.0
+34227,Puzzle Quest 2,DS,2010.0,numberOfObservances,1.0
+34228,Don Bradman Cricket 14,PS4,2015.0,numberOfObservances,1.0
+34229,Don Bradman Cricket 14,XOne,2015.0,numberOfObservances,1.0
+34230,Don Bradman Cricket 14,PS3,2014.0,numberOfObservances,1.0
+34231,Wolfenstein,PS3,2009.0,numberOfObservances,1.0
+34232,Wolfenstein,X360,2009.0,numberOfObservances,1.0
+34233,Wolfenstein,PC,2009.0,numberOfObservances,1.0
+34234,Mega Man Legacy Collection,3DS,2016.0,numberOfObservances,1.0
+34235,Mega Man Legacy Collection,PS4,2016.0,numberOfObservances,1.0
+34236,BloodRayne 2,PS2,2004.0,numberOfObservances,2.0
+34237,BloodRayne 2,XB,2004.0,numberOfObservances,2.0
+34238,The Whispered World,PC,2009.0,numberOfObservances,2.0
+34239,NBA 2K11,X360,2010.0,numberOfObservances,1.0
+34240,NBA 2K11,PS3,2010.0,numberOfObservances,1.0
+34241,NBA 2K11,Wii,2010.0,numberOfObservances,1.0
+34242,NBA 2K11,PSP,2010.0,numberOfObservances,1.0
+34243,NBA 2K11,PS2,2010.0,numberOfObservances,1.0
+34244,NBA 2K11,PC,2010.0,numberOfObservances,1.0
+34245,Wildlife Park 3,PC,2011.0,numberOfObservances,3.0
+34246,NBA 2K12,X360,2011.0,numberOfObservances,2.0
+34247,NBA 2K12,PS3,2011.0,numberOfObservances,2.0
+34248,NBA 2K12,Wii,2011.0,numberOfObservances,2.0
+34249,NBA 2K12,PSP,2011.0,numberOfObservances,2.0
+34250,NBA 2K12,PC,2011.0,numberOfObservances,2.0
+34251,Tom Clancy's Ghost Recon,PS2,2002.0,numberOfObservances,2.0
+34252,Tom Clancy's Ghost Recon,XB,2002.0,numberOfObservances,2.0
+34253,Tom Clancy's Ghost Recon,GC,2003.0,numberOfObservances,2.0
+34254,Tom Clancy's Ghost Recon,Wii,2010.0,numberOfObservances,2.0
+34255,Pro Evolution Soccer 2013,PS3,2012.0,numberOfObservances,1.0
+34256,Pro Evolution Soccer 2013,X360,2012.0,numberOfObservances,1.0
+34257,Pro Evolution Soccer 2013,PSP,2012.0,numberOfObservances,1.0
+34258,Pro Evolution Soccer 2013,3DS,2012.0,numberOfObservances,1.0
+34259,Pro Evolution Soccer 2013,Wii,2012.0,numberOfObservances,1.0
+34260,Pro Evolution Soccer 2013,PC,2012.0,numberOfObservances,1.0
+34261,Breach,PC,2011.0,numberOfObservances,3.0
+34262,Dream Pinball 3D,Wii,2008.0,numberOfObservances,1.0
+34263,Dream Pinball 3D,DS,2008.0,numberOfObservances,1.0
+34264,Bionic Commando,PS3,2009.0,numberOfObservances,1.0
+34265,Bionic Commando,X360,2009.0,numberOfObservances,1.0
+34266,Championship Manager 2010,PC,2009.0,numberOfObservances,1.0
+34267,Tom Clancy's Ghost Recon Advanced Warfighter 2,PS3,2007.0,numberOfObservances,3.0
+34268,Tom Clancy's Ghost Recon Advanced Warfighter 2,X360,2007.0,numberOfObservances,3.0
+34269,Tom Clancy's Ghost Recon Advanced Warfighter 2,PSP,2007.0,numberOfObservances,3.0
+34270,Imperial Glory,PC,2005.0,numberOfObservances,1.0
+34271,Jack Keane,PC,2008.0,numberOfObservances,1.0
+34272,BloodRayne,PS2,2002.0,numberOfObservances,1.0
+34273,BloodRayne,XB,2002.0,numberOfObservances,1.0
+34274,BloodRayne,GC,2002.0,numberOfObservances,1.0
+34275,Worldwide Soccer Manager 2009,PC,2008.0,numberOfObservances,1.0
