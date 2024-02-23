@@ -20,3 +20,6 @@ Cleaning and transformation steps for the dataset are included in the doc to fol
 ![image](https://github.com/Rayan-Arshed/Game-Playtime-Stats-PowerBI-Assignment/assets/95011650/99d02280-f1d7-4294-9f21-4aa227bf5a4a)
 
 ![image](https://github.com/Rayan-Arshed/Game-Playtime-Stats-PowerBI-Assignment/assets/95011650/8813b188-a99b-41bd-88eb-0cec1b8f756f)
+
+![image](https://github.com/Rayan-Arshed/Game-Playtime-Stats-PowerBI-Assignment/assets/95011650/bded9d95-f623-4155-b96a-4a59ce1b48de)
+
