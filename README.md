@@ -3,7 +3,7 @@
 
 Dataset used: https://www.kaggle.com/datasets/alex333/video-games-with-reviews-and-playtime-statistics
 
-Cleaning and transformation steps for the dataset are included in the doc to follow along.
+Cleaning and transformation steps for the dataset are included in the doc to follow along. Also, full presentation that I presented in interview with this data is included in the repo too.
 
 ## Report:
 
